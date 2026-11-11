@@ -50,14 +50,18 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 .pgcal .pgweek-day article{margin:0 0 8px;padding:8px;border:1px solid #a4b695;border-radius:8px;background:#fffdf9}
 .pgcal .pgweek-day article.pg-highlight{background:#fff5df;border-color:#b78a39}
 .pgcal .pgweek-day article h4{margin:2px 0;color:inherit;font:700 .82rem/1.24 Georgia,serif;overflow-wrap:anywhere}
-.pgcal .pgweek-time{font-size:.8rem;font-weight:700}
 .pgcal .pgweek-empty{font-size:.8rem;text-align:center}
 .pgcal .pgweek-day article{padding:8px 7px}
 .pgcal .pgweek-day article p{margin:2px 0}
-.pgcal .pgweek-day .pgweek-town{font-size:.75rem;color:#456055}
 .pgcal .pgweek-day .pgcard-links{margin-top:3px}
 .pgcal .pgweek-day .pgsource{font-size:.72rem}
 .pgcal .pg-import{margin:16px 0 0;color:#456055}
+.pgcal .pgevent-info{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 9px;margin:7px 0 5px;padding-top:6px;border-top:1px solid var(--line);font-size:.86rem;line-height:1.35}
+.pgcal .pgevent-time{font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
+.pgcal .pgevent-place{min-width:0;border-inline-start:1px solid var(--line);padding-inline-start:9px;color:#456055;overflow-wrap:anywhere}
+.pgcal .pg-highlight .pgevent-info,.pgcal .pg-highlight .pgevent-place{border-color:#dfc88e}
+.pgcal .pgweek-day .pgevent-info{gap:3px 5px;margin:5px 0 3px;padding-top:4px;font-size:.75rem}
+.pgcal .pgweek-day .pgevent-place{padding-inline-start:5px}
 </style>
 <section class="pgcal" lang="de" aria-label="Veranstaltungskalender Pinzgau">
 <header><p>PINZGAU · VERANSTALTUNGEN</p><h2>Was ist los in der Region?</h2><p>Zell am See–Kaprun und Umgebung</p></header>
@@ -324,16 +328,15 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
           heading.title = event.titel;
           heading.setAttribute('aria-label',event.titel);
         }
-        if (weekly) {
-          const timeRow = make('p', time);
-          timeRow.className = 'pgweek-time';
-          const town = make('p',event.town);
-          town.className = 'pgweek-town';
-          town.title = event.ort;
-          meta.append(timeRow,heading,town);
-        } else {
-          meta.append(heading,make('p',time + (event.beginn ? ' Uhr' : '')),make('p',event.ort));
-        }
+        const info = make('div','');
+        info.className = 'pgevent-info';
+        const timeLabel = make('span',time + (!weekly && event.beginn ? ' Uhr' : ''));
+        timeLabel.className = 'pgevent-time';
+        const placeLabel = make('span',weekly ? event.town : event.ort);
+        placeLabel.className = 'pgevent-place';
+        if (weekly) placeLabel.title = event.ort;
+        info.append(timeLabel,placeLabel);
+        meta.append(heading,info);
         const state = String(event.status || '').toLowerCase();
         const cancelled = ['abgesagt','cancelled','canceled'].includes(state);
         const postponed = ['verschoben','postponed'].includes(state);

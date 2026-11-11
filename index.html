@@ -336,12 +336,12 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         }
         const info = make('div','');
         info.className = 'pgevent-info';
-        const timeLabel = make('span',time + (!weekly && event.beginn ? ' Uhr' : ''));
-        timeLabel.className = 'pgevent-time';
+        const timeElement = make('span',time + (!weekly && event.beginn ? ' Uhr' : ''));
+        timeElement.className = 'pgevent-time';
         const placeLabel = make('span',weekly ? event.town : event.ort);
         placeLabel.className = 'pgevent-place';
         if (weekly) placeLabel.title = event.ort;
-        info.append(timeLabel,placeLabel);
+        info.append(timeElement,placeLabel);
         meta.append(heading,info);
         const state = String(event.status || '').toLowerCase();
         const cancelled = ['abgesagt','cancelled','canceled'].includes(state);

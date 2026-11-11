@@ -49,7 +49,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 .pgcal .pgweek-day h3[aria-current=date]{background:#315333;color:white}
 .pgcal .pgweek-day article{margin:0 0 8px;padding:8px;border:1px solid #a4b695;border-radius:8px;background:#fffdf9}
 .pgcal .pgweek-day article.pg-highlight{background:#fff5df;border-color:#b78a39}
-.pgcal .pgweek-day article h4{margin:2px 0;color:inherit;font:700 .82rem/1.24 Georgia,serif;overflow-wrap:anywhere}
+.pgcal .pgweek-day article h4{margin:2px 0;color:inherit;font:700 .82rem/1.24 Georgia,serif;overflow-wrap:normal;word-break:normal;hyphens:none;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;text-overflow:ellipsis}
 .pgcal .pgweek-empty{font-size:.8rem;text-align:center}
 .pgcal .pgweek-day article{padding:8px 7px}
 .pgcal .pgweek-day article p{margin:2px 0}
@@ -322,9 +322,15 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         const meta = make('div','');
         meta.className = 'pgmeta';
         const title = Array.from(event.titel);
-        const heading = make(weekly ? 'h4' : 'h3',
-          title.length > 75 ? title.slice(0,75).join('').trimEnd() + '...' : event.titel);
-        if (title.length > 75) {
+        const prefix = title.slice(0,75).join('');
+        const endsMidWord = !/\s/.test(title[74] || '') && !/\s/.test(title[75] || '');
+        const completeWords = endsMidWord ? prefix.replace(/\s+\S*$/u,'') : prefix.trimEnd();
+        const shortened = title.length > 75 ? prefix.trimEnd() + '...' : event.titel;
+        const visibleTitle = weekly && title.length > 75
+          ? (completeWords !== prefix || !endsMidWord ? completeWords + '...' : event.titel)
+          : shortened;
+        const heading = make(weekly ? 'h4' : 'h3',visibleTitle);
+        if (weekly || title.length > 75) {
           heading.title = event.titel;
           heading.setAttribute('aria-label',event.titel);
         }

@@ -52,6 +52,13 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 .pgcal .pgweek-day article h4{margin:2px 0;color:inherit;font:700 1rem/1.25 Georgia,serif;overflow-wrap:anywhere}
 .pgcal .pgweek-time{font-size:.8rem;font-weight:700}
 .pgcal .pgweek-empty{font-size:.8rem;text-align:center}
+.pgcal .pgweek-day article{padding:8px 7px}
+.pgcal .pgweek-day article p{margin:2px 0}
+.pgcal .pgweek-day article h4{font-size:.92rem;line-height:1.24}
+.pgcal .pgweek-day .pgweek-town{font-size:.75rem;color:#456055}
+.pgcal .pgweek-day .pgcard-links{margin-top:3px}
+.pgcal .pgweek-day .pgsource{font-size:.72rem}
+.pgcal .pg-import{margin:16px 0 0;color:#456055}
 </style>
 <section class="pgcal" lang="de" aria-label="Veranstaltungskalender Pinzgau">
 <header><p>PINZGAU · VERANSTALTUNGEN</p><h2>Was ist los in der Region?</h2><p>Zell am See–Kaprun und Umgebung</p></header>
@@ -59,13 +66,12 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 <label>Suche<input type="search" data-search placeholder="Titel, Ort oder Stichwort"></label>
 <label>Gemeinde<select data-place><option value="">Alle Gemeinden</option></select></label>
 <label>Kategorie<select data-category><option value="">Alle Kategorien</option></select></label>
-<label>Region<select data-region><option value="">Alle Regionen</option><option value="pinzgau">Nur Pinzgau</option></select></label>
 <label>Datum<input type="date" data-date></label>
 <button type="button" data-highlights aria-pressed="false">Nur Highlights</button>
 <button type="button" data-reset>Filter zurücksetzen</button>
 </div>
 <div class="pgbar" role="group" aria-label="Kalenderansicht">
-<button type="button" data-layout="cards" aria-pressed="true">Karten</button>
+<button type="button" data-layout="cards" aria-pressed="true">Liste</button>
 <button type="button" data-layout="week" aria-pressed="false">Woche</button>
 </div>
 <div class="pgbar" data-period role="group" aria-label="Zeitraum">
@@ -91,7 +97,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 </div>
 <div data-week-scroll role="region" aria-label="Wochenübersicht, horizontal scrollbar" tabindex="0" hidden><div data-week></div></div>
 <div data-events></div>
-<p><small>Quelle: <span data-source>Regionale Veranstaltungsquellen</span> · <span data-export></span></small></p>
+<p class="pg-import"><small data-export></small></p>
 <script>
 (() => {
   const root = document.currentScript.closest('.pgcal');
@@ -142,7 +148,6 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
     const dayLabel = new Intl.DateTimeFormat('de-AT', {...options, dateStyle:'full'});
     const timeLabel = new Intl.DateTimeFormat('de-AT', {...options, timeStyle:'short'});
     const category = get('[data-category]');
-    const region = get('[data-region]');
     const highlights = get('[data-highlights]');
     let highlightsOnly = false;
     const aliases = {Bruck:'Bruck an der Großglocknerstraße', Hütten:'Leogang',
@@ -234,7 +239,6 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         (!highlightsOnly || isHighlight(event)) &&
         (!place.value || event.town === place.value) &&
         (!category.value || event.category === category.value) &&
-        (!region.value || !['Gerlos','Zell am Ziller'].includes(event.town)) &&
         [event.titel,event.ort,event.beschreibung].join(' ').toLocaleLowerCase('de').includes(term)
       );
       const weekEnd = shift(weekStart,6);
@@ -314,12 +318,22 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         badge.append(make('span',short('weekday')),make('strong',event.day.slice(-2)),make('span',short('month')));
         const meta = make('div','');
         meta.className = 'pgmeta';
+        const title = Array.from(event.titel);
+        const heading = make(weekly ? 'h4' : 'h3',
+          title.length > 75 ? title.slice(0,75).join('').trimEnd() + '...' : event.titel);
+        if (title.length > 75) {
+          heading.title = event.titel;
+          heading.setAttribute('aria-label',event.titel);
+        }
         if (weekly) {
           const timeRow = make('p', time);
           timeRow.className = 'pgweek-time';
-          meta.append(timeRow,make('h4',event.titel),make('p',event.ort));
+          const town = make('p',event.town);
+          town.className = 'pgweek-town';
+          town.title = event.ort;
+          meta.append(timeRow,heading,town);
         } else {
-          meta.append(make('h3',event.titel),make('p',time + (event.beginn ? ' Uhr' : '')),make('p',event.ort));
+          meta.append(heading,make('p',time + (event.beginn ? ' Uhr' : '')),make('p',event.ort));
         }
         const state = String(event.status || '').toLowerCase();
         const cancelled = ['abgesagt','cancelled','canceled'].includes(state);
@@ -339,9 +353,9 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         links.className = 'pgcard-links';
         const categoryLabel = make('span',event.category);
         categoryLabel.className = 'pgcategory';
-        links.append(categoryLabel);
+        if (!weekly) links.append(categoryLabel);
         if (link.hasAttribute('href')) links.append(link);
-        meta.append(links);
+        if (links.children.length) meta.append(links);
         (weekly ? columns.get(event.day) : cards).append(card);
       }
       for (const column of columns.values()) {
@@ -379,7 +393,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
       };
     }
     search.oninput = render;
-    place.onchange = category.onchange = region.onchange = render;
+    place.onchange = category.onchange = render;
     highlights.onclick = () => {
       highlightsOnly = !highlightsOnly;
       render();
@@ -394,7 +408,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
     };
     get('[data-reset]').onclick = () => {
       highlightsOnly = false;
-      search.value = place.value = date.value = category.value = region.value = '';
+      search.value = place.value = date.value = category.value = '';
       view = 'upcoming';
       month = initialMonth;
       weekStart = monday(today);
@@ -419,7 +433,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
       date.value = event.day;
       weekStart = monday(event.day);
       highlightsOnly = false;
-      search.value = place.value = category.value = region.value = '';
+      search.value = place.value = category.value = '';
       render();
       const card = document.getElementById(event.id);
       card?.scrollIntoView({block:'center'});

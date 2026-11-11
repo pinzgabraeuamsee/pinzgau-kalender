@@ -48,6 +48,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 <label>Kategorie<select data-category><option value="">Alle Kategorien</option></select></label>
 <label>Region<select data-region><option value="">Alle Regionen</option><option value="pinzgau">Nur Pinzgau</option></select></label>
 <label>Datum<input type="date" data-date></label>
+<button type="button" data-highlights aria-pressed="false">Nur Highlights</button>
 <button type="button" data-reset>Filter zurücksetzen</button>
 </div>
 <div class="pgbar" role="group" aria-label="Zeitraum">
@@ -118,6 +119,8 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
     const timeLabel = new Intl.DateTimeFormat('de-AT', {...options, timeStyle:'short'});
     const category = get('[data-category]');
     const region = get('[data-region]');
+    const highlights = get('[data-highlights]');
+    let highlightsOnly = false;
     const aliases = {Bruck:'Bruck an der Großglocknerstraße', Hütten:'Leogang',
       'Königsleiten/Wald':'Wald im Pinzgau', 'Saalfelden am Steinernen Meer':'Saalfelden'};
     const rules = [
@@ -134,7 +137,9 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
       for (const char of text) value = Math.imul(value ^ char.codePointAt(0),16777619);
       return (value >>> 0).toString(36);
     };
-    const highlightTitles = new Set(["Zeller Sternenadvent am Stadtplatz","Sternenadvent Markt am See","BERGFESTival","Silvester Konzert 2026"]);
+    const pinzgaBraeu = /\bpinzga[\s-]+br(?:äu|aeu|au)\b/i;
+    const atPinzgaBraeu = /\b(?:beim|im|in der|bei)\s+pinzga[\s-]+br(?:äu|aeu|au)\b/i;
+    const isHighlight = event => pinzgaBraeu.test(event.ort) || atPinzgaBraeu.test(event.titel);
     const events = feed.veranstaltungen.map(event => ({
       ...event,
       day: event.datum || dayKey.format(new Date(event.beginn)),
@@ -186,7 +191,9 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         button.setAttribute('aria-pressed',String(button.dataset.view === view));
       }
       const term = search.value.trim().toLocaleLowerCase('de');
+      highlights.setAttribute('aria-pressed', String(highlightsOnly));
       const matching = events.filter(event =>
+        (!highlightsOnly || isHighlight(event)) &&
         (!place.value || event.town === place.value) &&
         (!category.value || event.category === category.value) &&
         (!region.value || !['Gerlos','Zell am Ziller'].includes(event.town)) &&
@@ -242,7 +249,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
           : 'ab ' + timeLabel.format(start);
         const card = make('article','');
         card.id = event.id;
-        card.classList.toggle('pg-highlight',highlightTitles.has(event.titel));
+        card.classList.toggle('pg-highlight',isHighlight(event));
         const badge = make('time','');
         badge.className = 'pgbadge';
         badge.dateTime = event.day;
@@ -286,6 +293,10 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
     get('[data-next]').onclick = () => moveMonth(1);
     search.oninput = render;
     place.onchange = category.onchange = region.onchange = render;
+    highlights.onclick = () => {
+      highlightsOnly = !highlightsOnly;
+      render();
+    };
     date.onchange = () => {
       if (date.value) {
         month = date.value.slice(0,7);
@@ -294,6 +305,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
       render();
     };
     get('[data-reset]').onclick = () => {
+      highlightsOnly = false;
       search.value = place.value = date.value = category.value = region.value = '';
       view = 'upcoming';
       month = initialMonth;
@@ -316,6 +328,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
       view = 'month';
       month = event.day.slice(0,7);
       date.value = event.day;
+      highlightsOnly = false;
       search.value = place.value = category.value = region.value = '';
       render();
       const card = document.getElementById(event.id);

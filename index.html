@@ -37,6 +37,8 @@
 .pgcal .pgsource{font-size:.8rem;white-space:nowrap}
 .pgcal [data-events] article.pg-highlight{background:#fff5df;border-color:#b78a39}
 .pgcal .pg-highlight .pgbadge{background:#795511;color:#fff}
+html.pgcal-embedded,html.pgcal-embedded body{margin:0;padding:0}
+html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 </style>
 <section class="pgcal" lang="de" aria-label="Veranstaltungskalender Pinzgau">
 <header><p>PINZGAU · VERANSTALTUNGEN</p><h2>Was ist los in der Region?</h2><p>Zell am See–Kaprun und Umgebung</p></header>
@@ -69,6 +71,20 @@
 (() => {
   const root = document.currentScript.closest('.pgcal');
   const get = selector => root.querySelector(selector);
+
+  if (window.parent !== window && new URLSearchParams(location.search).get('embed') === '1') {
+    document.documentElement.classList.add('pgcal-embedded');
+    const publishHeight = () => {
+      window.parent.postMessage({
+        type: 'pinzgau-calendar-height',
+        height: Math.ceil(root.getBoundingClientRect().height)
+      }, '*');
+    };
+    const observer = new ResizeObserver(publishHeight);
+    observer.observe(root);
+    window.addEventListener('load', publishHeight);
+    publishHeight();
+  }
   const status = get('[data-status]');
   const retry = get('[data-retry]');
 

@@ -39,6 +39,19 @@
 .pgcal .pg-highlight .pgbadge{background:#795511;color:#fff}
 html.pgcal-embedded,html.pgcal-embedded body{margin:0;padding:0}
 html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
+.pgcal [data-week-navigation]{align-items:center}
+.pgcal [data-week-label]{font:700 1.2rem Georgia,serif}
+.pgcal [data-week-scroll]{overflow-x:auto;border:1px solid #a4b695;border-radius:10px;background:#f7f5ee}
+.pgcal [data-week]{display:grid;grid-template-columns:repeat(7,minmax(130px,1fr));min-width:910px}
+.pgcal .pgweek-day{min-width:0;padding:0 6px 8px;border-inline-end:1px solid var(--line)}
+.pgcal .pgweek-day:last-child{border-inline-end:0}
+.pgcal .pgweek-day h3{margin:0 -6px 8px;padding:10px 6px;text-align:center;background:#e1ead7;font:700 1rem Georgia,serif}
+.pgcal .pgweek-day h3[aria-current=date]{background:#315333;color:white}
+.pgcal .pgweek-day article{margin:0 0 8px;padding:8px;border:1px solid #a4b695;border-radius:8px;background:#fffdf9}
+.pgcal .pgweek-day article.pg-highlight{background:#fff5df;border-color:#b78a39}
+.pgcal .pgweek-day article h4{margin:2px 0;color:inherit;font:700 1rem/1.25 Georgia,serif;overflow-wrap:anywhere}
+.pgcal .pgweek-time{font-size:.8rem;font-weight:700}
+.pgcal .pgweek-empty{font-size:.8rem;text-align:center}
 </style>
 <section class="pgcal" lang="de" aria-label="Veranstaltungskalender Pinzgau">
 <header><p>PINZGAU · VERANSTALTUNGEN</p><h2>Was ist los in der Region?</h2><p>Zell am See–Kaprun und Umgebung</p></header>
@@ -51,7 +64,11 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 <button type="button" data-highlights aria-pressed="false">Nur Highlights</button>
 <button type="button" data-reset>Filter zurücksetzen</button>
 </div>
-<div class="pgbar" role="group" aria-label="Zeitraum">
+<div class="pgbar" role="group" aria-label="Kalenderansicht">
+<button type="button" data-layout="cards" aria-pressed="true">Karten</button>
+<button type="button" data-layout="week" aria-pressed="false">Woche</button>
+</div>
+<div class="pgbar" data-period role="group" aria-label="Zeitraum">
 <button type="button" data-view="month" aria-pressed="true">Ganzer Monat</button>
 <button type="button" data-view="upcoming" aria-pressed="false">Demnächst</button>
 <button type="button" data-view="today" aria-pressed="false">Heute</button>
@@ -66,6 +83,13 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
 <div class="pggrid" data-grid></div>
 <p data-status role="status">Der interaktive Kalender benötigt JavaScript.</p>
 <button type="button" data-retry hidden>Erneut laden</button>
+<div class="pgbar" data-week-navigation hidden>
+<button type="button" data-week-prev aria-label="Vorherige Woche">‹</button>
+<h3 data-week-label></h3>
+<button type="button" data-week-next aria-label="Nächste Woche">›</button>
+<button type="button" data-week-today>Heute</button>
+</div>
+<div data-week-scroll role="region" aria-label="Wochenübersicht, horizontal scrollbar" tabindex="0" hidden><div data-week></div></div>
 <div data-events></div>
 <p><small>Quelle: <span data-source>Regionale Veranstaltungsquellen</span> · <span data-export></span></small></p>
 <script>
@@ -158,6 +182,13 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
     const saturday = shift(today,weekday === 0 ? -1 : 6-weekday);
     const sunday = shift(saturday,1);
     let view = 'upcoming';
+    let layout = 'cards';
+    const monday = day => shift(day, -((new Date(day+'T12:00:00Z').getUTCDay()+6)%7));
+    let weekStart = monday(today);
+    const weekScroll = get('[data-week-scroll]');
+    const weekGrid = get('[data-week]');
+    const weekRange = new Intl.DateTimeFormat('de-AT', {...options, dateStyle:'medium'});
+    const weekDay = new Intl.DateTimeFormat('de-AT', {...options, weekday:'short', day:'2-digit', month:'2-digit'});
     let month = (events[0]?.day || feed.datum || today).slice(0,7);
     if (today >= (feed.zeitraum?.von || events[0]?.day) && today <= (feed.zeitraum?.bis || events.at(-1)?.day)) month = today.slice(0,7);
     const initialMonth = month;
@@ -187,6 +218,13 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         'Importzeitpunkt nicht im Datensatz enthalten');
 
     function render() {
+      const weekly = layout === 'week';
+      for (const button of root.querySelectorAll('[data-layout]')) {
+        button.setAttribute('aria-pressed',String(button.dataset.layout === layout));
+      }
+      get('[data-period]').hidden = weekly;
+      get('[data-week-navigation]').hidden = !weekly;
+      weekScroll.hidden = !weekly;
       for (const button of root.querySelectorAll('[data-view]')) {
         button.setAttribute('aria-pressed',String(button.dataset.view === view));
       }
@@ -199,7 +237,8 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         (!region.value || !['Gerlos','Zell am Ziller'].includes(event.town)) &&
         [event.titel,event.ort,event.beschreibung].join(' ').toLocaleLowerCase('de').includes(term)
       );
-      const visible = matching.filter(event =>
+      const weekEnd = shift(weekStart,6);
+      const visible = weekly ? matching.filter(event => event.day >= weekStart && event.day <= weekEnd) : matching.filter(event =>
         (!date.value || event.day === date.value) &&
         (date.value || ({
           month: event.day.startsWith(month), upcoming: event.day >= today,
@@ -207,11 +246,11 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
           weekend: event.day >= saturday && event.day <= sunday
         })[view])
       );
-      get('[data-navigation]').hidden = view !== 'month';
-      grid.hidden = view !== 'month';
+      get('[data-navigation]').hidden = weekly || view !== 'month';
+      grid.hidden = weekly || view !== 'month';
       grid.replaceChildren();
 
-      if (view === 'month') {
+      if (!weekly && view === 'month') {
         const [year,number] = month.split('-').map(Number);
         const first = new Date(Date.UTC(year,number-1,1,12));
         get('[data-month]').textContent = new Intl.DateTimeFormat('de-AT',{
@@ -241,7 +280,24 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         ? visible.length + (visible.length === 1 ? ' Termin' : ' Termine')
         : 'Keine Termine in den geladenen Daten für diese Auswahl.';
       const cards = get('[data-events]');
+      cards.hidden = weekly;
       cards.replaceChildren();
+      weekGrid.replaceChildren();
+      const columns = new Map();
+      if (weekly) {
+        get('[data-week-label]').textContent = weekRange.formatRange(
+          new Date(weekStart+'T12:00:00Z'), new Date(weekEnd+'T12:00:00Z'));
+        for (let i = 0; i < 7; i++) {
+          const day = shift(weekStart,i);
+          const column = make('section','');
+          column.className = 'pgweek-day';
+          const heading = make('h3',weekDay.format(new Date(day+'T12:00:00Z')));
+          if (day === today) heading.setAttribute('aria-current','date');
+          column.append(heading);
+          columns.set(day,column);
+          weekGrid.append(column);
+        }
+      }
       for (const event of visible) {
         const start = new Date(event.beginn || event.day + 'T12:00:00Z');
         const time = !event.beginn ? 'Uhrzeit nicht erfasst' : event.ende
@@ -258,7 +314,13 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         badge.append(make('span',short('weekday')),make('strong',event.day.slice(-2)),make('span',short('month')));
         const meta = make('div','');
         meta.className = 'pgmeta';
-        meta.append(make('h3',event.titel),make('p',time + (event.beginn ? ' Uhr' : '')),make('p',event.ort));
+        if (weekly) {
+          const timeRow = make('p', time);
+          timeRow.className = 'pgweek-time';
+          meta.append(timeRow,make('h4',event.titel),make('p',event.ort));
+        } else {
+          meta.append(make('h3',event.titel),make('p',time + (event.beginn ? ' Uhr' : '')),make('p',event.ort));
+        }
         const state = String(event.status || '').toLowerCase();
         const cancelled = ['abgesagt','cancelled','canceled'].includes(state);
         const postponed = ['verschoben','postponed'].includes(state);
@@ -267,7 +329,8 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
           flag.className = 'pgflag';
           meta.append(flag);
         }
-        card.append(badge,meta);
+        if (!weekly) card.append(badge);
+        card.append(meta);
         const link = make('a','Quelle ↗');
         link.className = 'pgsource';
         link.setAttribute('aria-label','Quelle zu ' + event.titel);
@@ -279,7 +342,14 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
         links.append(categoryLabel);
         if (link.hasAttribute('href')) links.append(link);
         meta.append(links);
-        cards.append(card);
+        (weekly ? columns.get(event.day) : cards).append(card);
+      }
+      for (const column of columns.values()) {
+        if (column.children.length === 1) {
+          const empty = make('p','Keine Termine');
+          empty.className = 'pgweek-empty';
+          column.append(empty);
+        }
       }
     }
 
@@ -291,6 +361,23 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
     }
     get('[data-prev]').onclick = () => moveMonth(-1);
     get('[data-next]').onclick = () => moveMonth(1);
+    function moveWeek(amount) {
+      weekStart = amount === 0 ? monday(today) : shift(weekStart,amount*7);
+      date.value = '';
+      weekScroll.scrollLeft = 0;
+      render();
+    }
+    get('[data-week-prev]').onclick = () => moveWeek(-1);
+    get('[data-week-next]').onclick = () => moveWeek(1);
+    get('[data-week-today]').onclick = () => moveWeek(0);
+    for (const button of root.querySelectorAll('[data-layout]')) {
+      button.onclick = () => {
+        if (layout === button.dataset.layout) return;
+        layout = button.dataset.layout;
+        if (layout === 'week' && date.value) weekStart = monday(date.value);
+        render();
+      };
+    }
     search.oninput = render;
     place.onchange = category.onchange = region.onchange = render;
     highlights.onclick = () => {
@@ -300,6 +387,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
     date.onchange = () => {
       if (date.value) {
         month = date.value.slice(0,7);
+        weekStart = monday(date.value);
         view = 'month';
       }
       render();
@@ -309,6 +397,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
       search.value = place.value = date.value = category.value = region.value = '';
       view = 'upcoming';
       month = initialMonth;
+      weekStart = monday(today);
       render();
     };
     for (const button of root.querySelectorAll('[data-view]')) {
@@ -328,6 +417,7 @@ html.pgcal-embedded .pgcal{max-width:none;margin:0;border-radius:0}
       view = 'month';
       month = event.day.slice(0,7);
       date.value = event.day;
+      weekStart = monday(event.day);
       highlightsOnly = false;
       search.value = place.value = category.value = region.value = '';
       render();

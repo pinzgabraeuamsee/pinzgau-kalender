@@ -1,1965 +1,816 @@
 {
   "zeitraum": {
-    "von": "2026-11-01",
-    "bis": "2027-06-30"
+    "von": "2026-11-12",
+    "bis": "2027-05-12"
   },
-  "datum": "2026-11-01",
+  "datum": "2026-11-12",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 582,
-  "importiert_am": "2026-11-09",
-  "abdeckung": "November-Bestand für den Pinzgau ergänzt um recherchierte Einzeltermine und datierte Serien im November und Dezember. Null bei Beginn bedeutet keine eindeutige Uhrzeit. Öffentliche Webseiten und auffindbare Detailseiten; kein vollständiger Abruf dynamischer, geschlossener oder rein interner Kalender. Detailseiten können unter einer anderen URL als der Listenquelle geführt sein. Ergänzt um veröffentlichte Termine für Januar bis Juni 2027. Mehrtägige Veranstaltungen und bestätigte Wochenserien werden tageweise angezeigt. Die Vorschau ist keine Vollerhebung.",
+  "anzahl": 473,
+  "importiert_am": "2026-11-12",
+  "abdeckung": "160 registrierte URLs aus Bestandsdatei und Quellenliste geprüft oder zum Abruf versucht; 10 ohne aussagekräftigen öffentlichen Direktabruf oder geprüfte Alternative. Übersichten, ausgewählte paginierte Treffer und verifizierbare Veranstaltungsdetails ausgewertet. Dynamische Kalender, Spielpläne und Social Media sind nur teilweise erfasst. Die Abdeckung für das gesamte Sechsmonatsfenster ist lückenhaft. Bestehende künftige Einträge ohne belegte Änderungen bleiben erhalten.",
   "quellen": [
     {
       "url": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "anzahl": 24,
-      "status": "Termine übernommen"
+      "anzahl": 0,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-      "anzahl": 18,
-      "status": "Termine übernommen"
+      "anzahl": 8,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.maishofen.com/de/saalbach-zell-am-see/region-orte/veranstaltungen-in-maishofen.html",
       "anzahl": 1,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.bruck-fusch.at/de/veranstaltungen/veranstaltungskalender",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "anzahl": 60,
-      "status": "Termine übernommen"
+      "anzahl": 53,
+      "status": "Übersicht und offizielles Rennprogramm"
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
-      "anzahl": 7,
-      "status": "Termine übernommen"
+      "anzahl": 10,
+      "status": "Übersicht, Detailsuche und Biathlon-Terminserie"
     },
     {
       "url": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
-      "anzahl": 4,
-      "status": "Termine übernommen"
+      "anzahl": 2,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.uttendorf.com/veranstaltungen",
       "anzahl": 2,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.hochkoenig.at/de/events-highlights/veranstaltungen/top-events-und-veranstaltungen-am-hochkoenig.html",
-      "anzahl": 1,
-      "status": "Termine übernommen"
+      "anzahl": 2,
+      "status": "Übersicht und offizielle Gondeldinner-Detailseite"
     },
     {
       "url": "https://www.zillertalarena.com/wald-koenigsleiten/der-ort/veranstaltungen/",
       "anzahl": 2,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "anzahl": 22,
-      "status": "Termine übernommen"
+      "anzahl": 0,
+      "status": "Übersicht und Einzeltermin zum Musical"
     },
     {
       "url": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "anzahl": 13,
-      "status": "Termine übernommen"
+      "anzahl": 5,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-      "anzahl": 10,
-      "status": "Termine übernommen"
+      "anzahl": 9,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "anzahl": 13,
-      "status": "Termine übernommen"
+      "anzahl": 2,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalbach.or.at/",
-      "anzahl": 1,
-      "status": "Termine übernommen"
+      "anzahl": 0,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden.eu/Leben_in_Saalfelden/Veranstaltungen",
       "anzahl": 0,
-      "status": "Termine übernommen"
+      "status": "Paginierte Treffer und Einzelterminseiten über gezielte Websuche gefunden; Direktabruf teilweise fehlgeschlagen"
     },
     {
       "url": "https://www.meinbezirk.at/event/pinzgau",
-      "anzahl": 23,
-      "status": "Termine übernommen"
+      "anzahl": 6,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.platzhirsch.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.salzburg24.at/news/salzburg/pinzgau/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.sn.at/veranstaltungen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.sn.at/salzburg/pinzgau/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.svh.at/pinzgauer-woche/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.weekend.at/bundesland/salzburg",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.mittersill.info/de/service/mittersiller-nachrichten.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.sbsshopping.at/sbs-journal",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.journalverlag.com/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-      "anzahl": 3,
-      "status": "Termine übernommen"
+      "anzahl": 2,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://jeunesse.at/standorte/zell-am-see",
       "anzahl": 5,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zell-e.at/",
       "anzahl": 4,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://culturkreis.at/programm/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.maishofen.at/Theatergruppe_Maishofen",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.burg-kaprun.at/events/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.museum-kaprun.at/veranstaltungen/",
-      "anzahl": 3,
-      "status": "Termine übernommen"
+      "anzahl": 1,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://kunsthausnexus.com/programm/",
       "anzahl": 9,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.museum-saalfelden.at/veranstaltungen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://vogtturm.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.freiraum-kultur-leogang.com/",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://www.theater-ecce.com/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.cinetheatro.com/veranstaltungen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.tauriska.at/aktuelles-2/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.festivalhohetauern.at/",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://www.bm-zellamsee.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.musik-kaprun.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://buergermusik-saalfelden.at/de",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.prozell.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.prozell.at/STERNENADVENT-MARKT/",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://www.stadtmarketing-saalfelden.at/de/Veranstaltungen-Aktionen",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://pinzgau.landjugend.at/termine",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.ek-zellereisbaeren.at/de/Aktuelles/Spielplan",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.alps.hockey/saison/spiele",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.fc-pinzgau.at/mannschaften/kampfmannschaft.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.fczellamsee.at/de/teams/kampfmannschaft/index.php",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://ticker.ligaportal.at/mannschaft/506/fc-kaprun/spielplan",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://ticker.ligaportal.at/mannschaft/476/sk-bruck/spielplan",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.skmfussball.training/spielplan",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://ticker.ligaportal.at/mannschaft/479/usc-saalbach-hinterglemm/spielplan",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.golf-zellamsee.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.brandlhof.com/golfurlaub/golfturniere/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://golf-urslautal.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://yachtclub-zell.at/RegattenUebersicht.html",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://www.skiclub-zellamsee.at/termine/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.skiclub-kaprun.at/de/termine/2026",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.schiklubsaalfelden.net/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.schiclub.net/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.skm.at/termine/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://zellamsee.tennisplatz.info/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.ttc-saalfelden.at/kalender/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden-sportklub.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.kcsaalfelden.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://pfarren-zellamsee.at/zellamsee/gottesdienste/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://pfarren-zellamsee.at/schuettdorf/gottesdienste/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://pfarren-zellamsee.at/thumersbach/gottesdienste/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.pfarre.kaprun.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.pfarre.kaprun.at/aktuelles/gottesdienste/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.maishofen.at/Gottesdienstordnung",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalbach.or.at/Gottesdienstordnung",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.pfarre-bruck.at/termine/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.edsbg.at/pfarre/st-georgen-pinzgau",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.pfarre-saalfelden.at/",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.fusch.at/Unser_Fusch/Der_Ort/Religion/Gottesdienstordnungen",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.viehhofen.gv.at/Pfarrgemeinderat",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://pfarre-leogang.at/pfarrblatt-und-gottesdienstordnung/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.pfarre-mariaalm.at/index.php/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/terminvorschau--aktuelles",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/gottesdienste2/wann-und-wo",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/glaube--leben/gemeindebrief",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.schmitten.at/de/Events",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.kitzsteinhorn.at/de/service/news-events/events",
       "anzahl": 115,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden-leogang.com/Wochen-und-Eventprogramm",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.tonspurenamasitz.com/de",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden-leogang.com/Konzerte",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden-leogang.com/Sinne-Park",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.tonspurenamasitz.com/de/TONspur-trifft-Kulinarik",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/almkultur",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.hochalmbahnen.at/de/winter/information/veranstaltungskalender",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.gletscherwelt-weissee.at/de/veranstaltungen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.skialm-lofer.com/de/infos/veranstaltungen-lofer",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.skialm-lofer.com/de/neues-lofer-winter/die-besten-events",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.panoramabahn.at/de/top-veranstaltungen.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.panoramabahn.at/de/informationen-der-panoramabahn.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.kitzski.at/de/skigebiet-tirol/top-events-bei-kitzski-sei-dabei.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.kitzski.at/de/wandern-biken/sommer-events.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.facebook.com/prozell.at",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://www.facebook.com/gemeindesaalbach/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Vereine",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.kaprun.at/de/kaprun/vereine",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Vereine",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden.at/Leben_in_Saalfelden/Vereine",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.sav-theater.at/index.php?article_id=36",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.hakzell.at/termine",
       "anzahl": 2,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.hlpzell.at/termine",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.gymzell.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.gymnasium-saalfelden.at/service/termine",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.schigymnasium.at/aktuelles",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.htlsaalfelden.at/schule/allgemeines/terminkalender",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.hblw-saalfelden.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.lfs-bruck.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.bildung-sbg.gv.at/allgemeines/termine.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://musikum.at/de/musikschulen/musikum-zell-am-see-saalfelden/musikum-oeffne-dich/veranstaltungen-konzerte-klassenabende",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.volkshochschule.at/kurssuche/suche",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.volkshochschule.at/ueber-uns/bildungsnahversorgung/pinzgau",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.salzburgerbildungswerk.at/",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://www.saalfelden.at/Bildungszentrum_4",
-      "anzahl": 6,
-      "status": "Termine übernommen"
+      "anzahl": 5,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://biblio-kaprun.bvoe.at/veranstaltungen",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://bruck.dieselkino.at/programmuebersicht/",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://bruck.dieselkino.at/attraktionen/premieren/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://bruck.dieselkino.at/attraktionen/kino-anders/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://bruck.dieselkino.at/attraktionen/mein-erster-kinobesuch/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.tauernspakaprun.com/de/mehr/veranstaltungskalender",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.tauernspakaprun.com/de/mehr/wochenprogramm",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.tauernspakaprun.com/de/special/thermenkalender",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.nationalparkzentrum.at/de/events-tagungen/veranstaltungen",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://zellamsee.kiwanis.at/veranstaltungen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://zellamsee.kiwanis.at/clubprogramm/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://saalfelden.lions.at/de/veranstaltungen/clubtermine-oeffentlich.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://zell-am-see.lions.at/de/club/clubinformationen.html",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://kaprun.lions.at/de/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://mittersill.lions.at/de/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.mittersill.at/Lions_Flohmarkt_2026",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://pinzgau.rotaract.at/de/agenda",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://zellamsee.rotary.at/bs/organisation/about-us",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://rotary.at/de/organisation/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://zellamsee.soroptimist.at/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://rollendeherzen.at/rollende-herzen-verteilen-statt-wegwerfen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.peercenter.at/veranstaltungen.php",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://termine.blut.at/",
       "anzahl": 0,
-      "status": "Inhalt im Abruf nicht auswertbar"
+      "status": "Kein aussagekräftiger öffentlicher Abruf; Bestandsdaten erhalten"
     },
     {
       "url": "https://www.hilfswerk.at/salzburg/news-aktivitaeten/veranstaltungen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.fpcc.at/de/events-termine",
-      "anzahl": 9,
-      "status": "Termine übernommen"
+      "anzahl": 11,
+      "status": "Offizieller Programmkalender, Datum und Beginn abgeglichen"
     },
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
-      "anzahl": 9,
-      "status": "Termine übernommen"
+      "anzahl": 10,
+      "status": "Programmkalender und offizielle Einzelterminseiten"
     },
     {
       "url": "https://www.brandlhof.com/veranstaltungen/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.burg-kaprun.at/veranstaltungen-events/",
       "anzahl": 0,
-      "status": "Seite geprüft; kein Einzeltermin direkt zugeordnet"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/dutchweek-winter",
       "anzahl": 8,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/fat-ice-race",
       "anzahl": 2,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/balloonalps",
       "anzahl": 9,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/event/ski-golf-world-championship~11495/1809669600",
       "anzahl": 4,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698",
-      "anzahl": 4,
-      "status": "Termine übernommen"
+      "anzahl": 0,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de",
-      "anzahl": 4,
-      "status": "Termine übernommen"
+      "anzahl": 0,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/yoga-festival-beats-berge_event_10609896",
       "anzahl": 4,
-      "status": "Termine übernommen"
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     },
     {
       "url": "https://www.elements-outdoorsports.at/de/camps",
-      "anzahl": 23,
-      "status": "Termine übernommen"
+      "anzahl": 4,
+      "status": "Öffentliche Seite stichprobenartig geprüft; keine Vollständigkeitszusage"
     }
   ],
   "veranstaltungen": [
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T09:00:00+01:00",
-      "ende": "2026-11-02T11:00:00+01:00",
-      "titel": "Besichtigung Mineralienmuseum",
-      "ort": "Leogang",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T09:00:00+01:00",
-      "ende": null,
-      "titel": "Klettertraining für Einsteiger",
-      "ort": "Saalfelden am Steinernen Meer",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T09:00:00+01:00",
-      "ende": null,
-      "titel": "Klettertraining für Einsteiger",
-      "ort": "Weißbach bei Lofer",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T09:30:00+01:00",
-      "ende": null,
-      "titel": "Geführte Wanderung zur Senningeralm",
-      "ort": "Hollersbach im Pinzgau",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T10:00:00+01:00",
-      "ende": null,
-      "titel": "Alpaka Trekking Leogang",
-      "ort": "Leogang",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T10:30:00+01:00",
-      "ende": null,
-      "titel": "Allerseelengottesdienst + Gräbersegnung",
-      "ort": "Lend",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T14:30:00+01:00",
-      "ende": "2026-11-02T15:00:00+01:00",
-      "titel": "Geschichtenzeit für kleine Ohren",
-      "ort": "Kaprun",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events",
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T17:00:00+01:00",
-      "ende": "2026-11-02T19:00:00+01:00",
-      "titel": "Mystische Nachtwanderung",
-      "ort": "Leogang",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T17:00:00+01:00",
-      "ende": "2026-11-02T19:00:00+01:00",
-      "titel": "Mystische Nachtwanderung mit Fackeln",
-      "ort": "Saalfelden am Steinernen Meer",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T17:30:00+01:00",
-      "ende": null,
-      "titel": "Ambulante Fastenwoche",
-      "ort": "Mittersill",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T18:00:00+01:00",
-      "ende": "2026-11-02T19:00:00+01:00",
-      "titel": "Easy Step - Group Fitness",
-      "ort": "Unken",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T18:00:00+01:00",
-      "ende": "2026-11-02T19:00:00+01:00",
-      "titel": "Group-Fitness mit Andy",
-      "ort": "Unken",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T18:00:00+01:00",
-      "ende": null,
-      "titel": "Schnupper-Klettern in der Boulderhalle für Groß & Klein",
-      "ort": "Uttendorf",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T18:00:00+01:00",
-      "ende": "2026-11-02T19:15:00+01:00",
-      "titel": "Yoga für Einsteiger",
-      "ort": "Unken",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T19:00:00+01:00",
-      "ende": null,
-      "titel": "Allerseelengottesdienst",
-      "ort": "Stuhlfelden",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T19:00:00+01:00",
-      "ende": null,
-      "titel": "Allerseelengottesdienst + Gräbersegnung",
-      "ort": "Lend",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T19:00:00+01:00",
-      "ende": null,
-      "titel": "Einihorchn & Zualosn - \"Heut vor 50 Jahr...\"",
-      "ort": "Neukirchen am Großvenediger",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T19:00:00+01:00",
-      "ende": "2026-11-02T20:00:00+01:00",
-      "titel": "Gottesdienst mit anschließender Gräbersegnung am Ortsfriedhof",
-      "ort": "Maishofen",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": "2026-11-02T19:00:00+01:00",
-      "ende": "2026-11-02T20:00:00+01:00",
-      "titel": "Kirchenchor Zell am See: Allerseelen",
-      "ort": "Zell am See",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events",
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": null,
-      "ende": null,
-      "titel": "Allerseelengottesdienst mit Gräbersegnung",
-      "ort": "Dienten am Hochkönig",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Betriebsleiter - Schlepplifte",
-      "beginn": null,
-      "datum": "2026-11-02",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": null,
-      "ende": null,
-      "titel": "Genuss E-Bike Tour zur Enzianhütte",
-      "ort": "Zell am See",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": null,
-      "ende": null,
-      "titel": "SCHRIFTbilder von Heidrun Edelsbacher - Ausstellung in der Stiegenhausgalerie",
-      "ort": "Saalfelden am Steinernen Meer",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": null,
-      "ende": null,
-      "titel": "Süßes oder Saures - Die digitale Halloween-Schnitzeljagd",
-      "ort": "Saalfelden am Steinernen Meer",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "datum": "2026-11-02",
-      "beginn": null,
-      "ende": null,
-      "titel": "Traditionelles Schaffleischessen",
-      "ort": "Taxenbach",
-      "quelle": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "quellen": [
-        "https://wasmachma.at/bezirk/zell-am-see/events"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Der Tätowierer und die Mondprinzessin",
-      "beginn": "2026-11-03T19:00:00+01:00",
-      "datum": "2026-11-03",
-      "ende": "2026-11-03T21:00:00+01:00",
-      "ort": "POSTart, Postplatz 4, 5700 Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Betriebsleiter - Schlepplifte",
-      "beginn": null,
-      "datum": "2026-11-03",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "26-3-40017: Italienisch - A 1/1: Für Anfänger:innen ohne Vorkenntnisse",
-      "beginn": "2026-11-04T17:30:00+01:00",
-      "datum": "2026-11-04",
-      "ende": "2026-11-04T18:45:00+01:00",
-      "ort": "Zell am See - VHS-Kursraum, Bahnhofstraße 10, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "„Wohin weht der Wind? – Fakten, Fragen und Perspektiven zur Windkraft“",
-      "beginn": "2026-11-04T18:30:00+01:00",
-      "datum": "2026-11-04",
-      "ende": "2026-11-04T20:00:00+01:00",
-      "ort": "Veranstaltungssaal Taxenbach, Marktstraße 31, 5660 Taxenbach",
-      "beschreibung": "",
-      "quelle": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "quellen": [
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "26-3-40067: Kreatives Schreiben",
-      "beginn": "2026-11-04T18:30:00+01:00",
-      "datum": "2026-11-04",
-      "ende": "2026-11-04T20:10:00+01:00",
-      "ort": "Zell am See - VHS-Kursraum, Bahnhofstraße 10, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Betriebsleiter - Schlepplifte",
-      "beginn": null,
-      "datum": "2026-11-04",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Rollende Herzen - Gratis eine Einkaufstasche füllen!",
-      "beginn": "2026-11-05T16:35:00+01:00",
-      "datum": "2026-11-05",
-      "ende": "2026-11-05T16:45:00+01:00",
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Bauernmalerei",
-      "datum": "2026-11-05",
-      "beginn": "2026-11-05T17:00:00+01:00",
-      "ende": "2026-11-05T19:00:00+01:00",
-      "ort": "Kaprun Museum, Kaprun",
-      "quelle": "https://www.museum-kaprun.at/veranstaltungen/",
-      "quellen": [
-        "https://www.museum-kaprun.at/veranstaltungen/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Beweg` dich - Gesunder Rücken",
-      "beginn": "2026-11-05T17:00:00+01:00",
-      "datum": "2026-11-05",
-      "ende": "2026-11-05T18:00:00+01:00",
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "26-3-40015: Italienisch - B1/1: Für Fortgeschrittene mit soliden Grundkenntnissen",
-      "beginn": "2026-11-05T17:30:00+01:00",
-      "datum": "2026-11-05",
-      "ende": "2026-11-05T18:45:00+01:00",
-      "ort": "Zell am See - Polytechnische Schule, Schulweg 5, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "26-3-40084: Räuchern mit heimischen Kräutern in der Weihnachtszeit",
-      "beginn": "2026-11-05T18:00:00+01:00",
-      "datum": "2026-11-05",
-      "ende": "2026-11-05T20:00:00+01:00",
-      "ort": "Zell am See - VHS-Kursraum, Bahnhofstraße 10, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Sozialnetzwerktreffen Pinzgau",
-      "beginn": "2026-11-05T18:00:00+01:00",
-      "datum": "2026-11-05",
-      "ende": "2026-11-05T20:00:00+01:00",
-      "ort": "Wirtschaftskammer Zell am See, Schulstraße 14, 5700 Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "quellen": [
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Lesung Herbert Nill – Zuaglost und Aufgschriem",
-      "beginn": "2026-11-05T19:00:00+01:00",
-      "datum": "2026-11-05",
-      "ende": "2026-11-05T22:00:00+01:00",
-      "ort": "Thurners Boutique Hotel, Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Technik. Material. Kopf. Körper. - Was den Unterschied macht",
-      "beginn": "2026-11-05T19:00:00+01:00",
-      "datum": "2026-11-05",
-      "ende": "2026-11-05T21:00:00+01:00",
-      "ort": "Bründl Sports Flagshipstore , Nikolaus-Gassner-Straße 4, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "\"Woast as no\" - Eine Ausstellung voller Geschichten, Gesichter und Generationen",
-      "beginn": null,
-      "datum": "2026-11-05",
-      "ende": null,
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Betriebsleiter - Schlepplifte",
-      "beginn": null,
-      "datum": "2026-11-05",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Karoline Maahs-Franke - Farbe.Raum.Emotion",
-      "beginn": "2026-11-06T08:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Gemeindeamt, Bruck",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Stadtmarkt Zell am See",
-      "beginn": "2026-11-06T08:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": "2026-11-06T13:00:00+01:00",
-      "ort": "Stadtplatz, 5700 Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "peppINI Eltern-Kind-Gruppe",
-      "beginn": "2026-11-06T09:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": "2026-11-06T11:00:00+01:00",
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Leonhardiritt und Kirtag",
-      "beginn": "2026-11-06T10:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Kirchplatz, Leogang",
-      "beschreibung": "",
-      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/leonhardiritt-leogang_event_11873545",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau",
-        "https://www.saalfelden-leogang.com/de/news-events/events"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "GEDANKENspiel – Druckworkshop mit Holzlettern",
-      "beginn": "2026-11-06T15:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Buchbinderei Fuchs, Saalfelden",
-      "beschreibung": "",
-      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/gedankenspiel-botschaften-individuell-gedruckt-mit-holzlettern_event_11359345",
-      "quellen": [
-        "https://www.saalfelden-leogang.com/de/news-events/events"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Kleiderbasar – Warenannahme",
-      "beginn": "2026-11-06T15:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": "2026-11-06T19:00:00+01:00",
-      "ort": "Volksschule Maria Alm, Maria Alm",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Spuk im Kasperlhaus",
-      "beginn": "2026-11-06T16:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Felberturm Museum, Mittersill",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "THE AWAKENING",
-      "beginn": "2026-11-06T16:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Kitzsteinhorn, Kesselfallstraße 60, 5710 Kaprun",
-      "beschreibung": "Anreise und Check-in für das Wochenendpaket.",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/the-awakening~13556",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Raiffeisen-Benefizabend",
-      "beginn": "2026-11-06T19:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": "2026-11-06T22:00:00+01:00",
-      "ort": "Turnsaal Mittelschule Bruck, Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "quellen": [
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Markus Linder – Bäm Valera",
-      "beginn": "2026-11-06T20:00:00+01:00",
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Cinétheatro, Neukirchen am Großvenediger",
-      "beschreibung": "",
-      "quelle": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
-      "quellen": [
-        "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "\"Woast as no\" - Eine Ausstellung voller Geschichten, Gesichter und Generationen",
-      "beginn": null,
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Ausbildung zum Führen von Hubstaplern",
-      "beginn": null,
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "BFI Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Betriebsleiter - Schlepplifte",
-      "beginn": null,
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Workshop für Radio & Podcast in Zell am See",
-      "beginn": null,
-      "datum": "2026-11-06",
-      "ende": null,
-      "ort": "Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Kleiderbasar – Verkauf",
-      "ort": "Volksschule, Maria Alm",
-      "quelle": "https://www.bruck-grossglockner.at/Kleiderbasar_fuer_Damen_Herren_Herbst_Winter_-_Groesse_XS_-_XXL",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "datum": "2026-11-07",
-      "beginn": "2026-11-07T08:00:00+01:00",
-      "ende": "2026-11-07T15:00:00+01:00",
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Kitzsteinhorn Ski & Board Test",
-      "beginn": "2026-11-07T09:00:00+01:00",
-      "datum": "2026-11-07",
-      "ende": "2026-11-07T16:00:00+01:00",
-      "ort": "Alpincenter, Kesselfallstraße 60, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "THE AWAKENING",
-      "beginn": "2026-11-07T10:00:00+01:00",
-      "datum": "2026-11-07",
-      "ende": null,
-      "ort": "Kitzsteinhorn, Kesselfallstraße 60, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/the-awakening~13556",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Was du schon immer über Kramperl wissen wolltest",
-      "beginn": "2026-11-07T10:00:00+01:00",
-      "datum": "2026-11-07",
-      "ende": "2026-11-07T12:00:00+01:00",
-      "ort": "Bibliothek Kaprun, Imbachstraße 2, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "quellen": [
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Klassisches Gitarrenkonzert mit Antigoni Baxe in Neukirchen",
-      "beginn": "2026-11-07T17:00:00+01:00",
-      "datum": "2026-11-07",
-      "ende": null,
-      "ort": "Tauriska Kammerlanderstall, Neukirchen am Großvenediger",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau",
-        "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Kammermusik in Hütten",
-      "beginn": "2026-11-07T18:00:00+01:00",
-      "datum": "2026-11-07",
-      "ende": null,
-      "ort": "Hütten, Leogang",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau",
-        "https://www.saalfelden-leogang.com/de/news-events/events"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Messe in der Pfarrkirche Saalbach",
-      "beginn": "2026-11-07T18:00:00+01:00",
-      "datum": "2026-11-07",
-      "ende": null,
-      "ort": "Pfarrkirche, Saalbach",
-      "beschreibung": "",
-      "quelle": "https://saalbach.or.at/Buergerservice/Aktuelles/Neuigkeiten",
-      "quellen": [
-        "https://www.saalbach.or.at/"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "LOHNINGHOF-Kino: Gelbe Briefe",
-      "datum": "2026-11-07",
-      "beginn": "2026-11-07T19:30:00+01:00",
-      "ende": "2026-11-07T21:30:00+01:00",
-      "ort": "Lohninghof, Zell am See",
-      "quelle": "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-      "quellen": [
-        "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Matura Ball der TS Bramberg",
-      "datum": "2026-11-07",
-      "beginn": "2026-11-07T20:00:00+01:00",
-      "ende": null,
-      "ort": "Ferry Porsche Congress Center, Zell am See",
-      "quelle": "https://www.fpcc.at/de/events-termine",
-      "quellen": [
-        "https://www.fpcc.at/de/events-termine"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Workshop für Radio & Podcast in Zell am See",
-      "beginn": null,
-      "datum": "2026-11-07",
-      "ende": null,
-      "ort": "Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Kitzsteinhorn Ski & Board Test",
-      "beginn": "2026-11-08T09:00:00+01:00",
-      "datum": "2026-11-08",
-      "ende": "2026-11-08T16:00:00+01:00",
-      "ort": "Alpincenter, Kesselfallstraße 60, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "THE AWAKENING",
-      "beginn": "2026-11-08T10:00:00+01:00",
-      "datum": "2026-11-08",
-      "ende": null,
-      "ort": "Kitzsteinhorn, Kesselfallstraße 60, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/the-awakening~13556",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Kammermusik in Hütten",
-      "beginn": "2026-11-08T11:00:00+01:00",
-      "datum": "2026-11-08",
-      "ende": null,
-      "ort": "Bergbau- und Gotikmuseum, Leogang",
-      "beschreibung": "",
-      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events",
-      "quellen": [
-        "https://www.saalfelden-leogang.com/de/news-events/events"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Werkeinführung mit Wolfgang Brunner",
-      "beginn": "2026-11-08T11:00:00+01:00",
-      "datum": "2026-11-08",
-      "ende": null,
-      "ort": "Bergbau- und Gotikmuseum Leogang, Hütten",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Martinibrunch 'GANS viel Genuss'",
-      "beginn": "2026-11-08T11:30:00+01:00",
-      "datum": "2026-11-08",
-      "ende": "2026-11-08T14:00:00+01:00",
-      "ort": "TAUERN SPA, Kaprun",
-      "beschreibung": "Sektempfang ab 11:30 Uhr laut veröffentlichtem Genussprogramm.",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Seniorennachmittag im Pfarrhof",
-      "beginn": "2026-11-08T14:00:00+01:00",
-      "datum": "2026-11-08",
-      "ende": "2026-11-08T16:00:00+01:00",
-      "ort": "Maishofen",
-      "beschreibung": "",
-      "quelle": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-      "quellen": [
-        "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Konzert Klangfrauen (a capella) „Leben, Lieben, Loslassen“",
-      "beginn": "2026-11-08T18:00:00+01:00",
-      "datum": "2026-11-08",
-      "ende": "2026-11-08T19:30:00+01:00",
-      "ort": "Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Karoline Maahs-Franke - Farbe.Raum.Emotion",
-      "beginn": "2026-11-09T08:00:00+01:00",
-      "datum": "2026-11-09",
-      "ende": null,
-      "ort": "Gemeindeamt, Bruck",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "pepp ELTERNcafé Neukirchen",
-      "beginn": "2026-11-09T09:00:00+01:00",
-      "datum": "2026-11-09",
-      "ende": null,
-      "ort": "Gülln 445, Neukirchen am Großvenediger",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "pepp ELTERNcafé Saalfelden",
-      "beginn": "2026-11-09T09:00:00+01:00",
-      "datum": "2026-11-09",
-      "ende": null,
-      "ort": "Farmachstraße 12, Saalfelden am Steinernen Meer",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Beweg` dich - Gesunder Rücken",
-      "beginn": "2026-11-09T17:00:00+01:00",
-      "datum": "2026-11-09",
-      "ende": "2026-11-09T18:00:00+01:00",
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Strategieprozess Zell am See-Kaprun | Regionsworkshop für Politik & Bevölkerung",
-      "beginn": "2026-11-09T19:00:00+01:00",
-      "datum": "2026-11-09",
-      "ende": "2026-11-09T21:00:00+01:00",
-      "ort": "Ort: wird noch bekanntgegeben, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Diplom Sommelier",
-      "beginn": null,
-      "datum": "2026-11-09",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "pepp Elterncafé",
-      "beginn": "2026-11-10T09:00:00+01:00",
-      "datum": "2026-11-10",
-      "ende": "2026-11-10T11:00:00+01:00",
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Blasmusikpop oder Wie die Wissenschaft in die Berge kam – Vea Kaiser",
-      "datum": "2026-11-10",
-      "beginn": "2026-11-10T19:00:00+01:00",
-      "ende": "2026-11-10T21:00:00+01:00",
-      "ort": "Kaprun Museum, Kaprun",
-      "quelle": "https://www.museum-kaprun.at/veranstaltungen/",
-      "quellen": [
-        "https://www.museum-kaprun.at/veranstaltungen/",
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Vortrag „Verführt im Netz – Mann-Sein im Zeitalter sozialer Medien“",
-      "beginn": "2026-11-10T19:30:00+01:00",
-      "datum": "2026-11-10",
-      "ende": null,
-      "ort": "Lofererstraße 15, Saalfelden am Steinernen Meer",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Diplom Sommelier",
-      "beginn": null,
-      "datum": "2026-11-10",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "26-3-40017: Italienisch - A 1/1: Für Anfänger:innen ohne Vorkenntnisse",
-      "beginn": "2026-11-11T17:30:00+01:00",
-      "datum": "2026-11-11",
-      "ende": "2026-11-11T18:45:00+01:00",
-      "ort": "Zell am See - VHS-Kursraum, Bahnhofstraße 10, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "26-3-40067: Kreatives Schreiben",
-      "beginn": "2026-11-11T18:30:00+01:00",
-      "datum": "2026-11-11",
-      "ende": "2026-11-11T20:10:00+01:00",
-      "ort": "Zell am See - VHS-Kursraum, Bahnhofstraße 10, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Tanzkurs für Anfänger und Wiedereinsteiger",
-      "beginn": "2026-11-11T18:30:00+01:00",
-      "datum": "2026-11-11",
-      "ende": null,
-      "ort": "Thurners Boutique Hotel, Bruck",
-      "beschreibung": "",
-      "quelle": "https://www.meinbezirk.at/event/pinzgau",
-      "quellen": [
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Bibliothek: Lesung von Roman Klementovic",
-      "datum": "2026-11-11",
-      "beginn": "2026-11-11T19:00:00+01:00",
-      "ende": "2026-11-11T20:30:00+01:00",
-      "ort": "Bildungszentrum, Saalfelden",
-      "quelle": "https://www.saalfelden.at/Bildungszentrum_4",
-      "quellen": [
-        "https://www.saalfelden.at/Bildungszentrum_4",
-        "https://www.meinbezirk.at/event/pinzgau"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Diplom Sommelier",
-      "beginn": null,
-      "datum": "2026-11-11",
-      "ende": null,
-      "ort": "Bezst. Pinzgau, Zell am See",
-      "beschreibung": "",
-      "quelle": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "quellen": [
-        "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
     {
       "titel": "Tanz ab der Lebensmitte",
       "beginn": "2026-11-12T14:00:00+01:00",
@@ -2094,6 +945,19 @@
       "uhrzeit_bekannt": true
     },
     {
+      "titel": "Live Musik – Gernot Unterweger",
+      "beginn": null,
+      "datum": "2026-11-14",
+      "ende": null,
+      "ort": "Dorfschenke Mühlbach, Bramberg am Wildkogel",
+      "beschreibung": "",
+      "quelle": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
+      "quellen": [
+        "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html"
+      ],
+      "uhrzeit_bekannt": false
+    },
+    {
       "titel": "37. Saalachtaler Kleintierschau",
       "ort": "Maishofen",
       "quelle": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
@@ -2197,19 +1061,6 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Live Musik – Gernot Unterweger",
-      "beginn": null,
-      "datum": "2026-11-14",
-      "ende": null,
-      "ort": "Dorfschenke Mühlbach, Bramberg am Wildkogel",
-      "beschreibung": "",
-      "quelle": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
-      "quellen": [
-        "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html"
-      ],
-      "uhrzeit_bekannt": false
     },
     {
       "titel": "37. Saalachtaler Kleintierschau",
@@ -2451,6 +1302,19 @@
       "uhrzeit_bekannt": true
     },
     {
+      "titel": "Chris Neuschmid Trio",
+      "beginn": null,
+      "datum": "2026-11-20",
+      "ende": null,
+      "ort": "Cinétheatro, Neukirchen am Großvenediger",
+      "beschreibung": "",
+      "quelle": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
+      "quellen": [
+        "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html"
+      ],
+      "uhrzeit_bekannt": false
+    },
+    {
       "titel": "Beratungstage Tauernwärme",
       "beginn": "2026-11-20T08:00:00+01:00",
       "datum": "2026-11-20",
@@ -2530,19 +1394,6 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Chris Neuschmid Trio",
-      "beginn": null,
-      "datum": "2026-11-20",
-      "ende": null,
-      "ort": "Cinétheatro, Neukirchen am Großvenediger",
-      "beschreibung": "",
-      "quelle": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
-      "quellen": [
-        "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html"
-      ],
-      "uhrzeit_bekannt": false
     },
     {
       "datum": "2026-11-21",
@@ -2940,6 +1791,33 @@
       "kategorie": "Musik & Kultur"
     },
     {
+      "titel": "Adventauftakt",
+      "beginn": null,
+      "datum": "2026-11-28",
+      "ende": null,
+      "ort": "Musikpavillon, Uttendorf",
+      "beschreibung": "",
+      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
+      "quellen": [
+        "https://www.uttendorf.com/veranstaltungen"
+      ],
+      "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Adventauftakt beim Musikpavillon",
+      "datum": "2026-11-28",
+      "beginn": null,
+      "ende": null,
+      "ort": "Uttendorf",
+      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
+      "quellen": [
+        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Märkte & Brauchtum"
+    },
+    {
       "titel": "Adventmarkt am Rathausplatz Saalfelden",
       "datum": "2026-11-28",
       "beginn": "2026-11-28T12:00:00+01:00",
@@ -3049,27 +1927,15 @@
       "uhrzeit_bekannt": true
     },
     {
-      "titel": "Adventauftakt",
-      "beginn": null,
-      "datum": "2026-11-28",
-      "ende": null,
-      "ort": "Musikpavillon, Uttendorf",
-      "beschreibung": "",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/veranstaltungen"
-      ],
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Adventauftakt beim Musikpavillon",
-      "datum": "2026-11-28",
+      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
+      "datum": "2026-11-29",
       "beginn": null,
       "ende": null,
       "ort": "Uttendorf",
       "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
       "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
+        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
+        "https://www.uttendorf.com/veranstaltungen"
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false,
@@ -3210,21 +2076,6 @@
       "uhrzeit_bekannt": true
     },
     {
-      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
-      "datum": "2026-11-29",
-      "beginn": null,
-      "ende": null,
-      "ort": "Uttendorf",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-        "https://www.uttendorf.com/veranstaltungen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
       "titel": "Dorfroass der Moapass",
       "datum": "2026-12-01",
       "beginn": null,
@@ -3250,6 +2101,34 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true,
+      "kategorie": "Märkte & Brauchtum"
+    },
+    {
+      "datum": "2026-12-03",
+      "beginn": null,
+      "ende": null,
+      "titel": "BERGFESTival",
+      "ort": "Saalbach Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/bergfestival_e_1644",
+      "quellen": [
+        "https://www.saalbach.com/de/events/bergfestival_e_1644"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Musik & Kultur"
+    },
+    {
+      "titel": "Krampusrummel der Moapass",
+      "datum": "2026-12-03",
+      "beginn": null,
+      "ende": null,
+      "ort": "Uttendorf",
+      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
+      "quellen": [
+        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
       "kategorie": "Märkte & Brauchtum"
     },
     {
@@ -3294,7 +2173,7 @@
       "uhrzeit_bekannt": true
     },
     {
-      "datum": "2026-12-03",
+      "datum": "2026-12-04",
       "beginn": null,
       "ende": null,
       "titel": "BERGFESTival",
@@ -3306,20 +2185,6 @@
       "beschreibung": "",
       "uhrzeit_bekannt": false,
       "kategorie": "Musik & Kultur"
-    },
-    {
-      "titel": "Krampusrummel der Moapass",
-      "datum": "2026-12-03",
-      "beginn": null,
-      "ende": null,
-      "ort": "Uttendorf",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Märkte & Brauchtum"
     },
     {
       "titel": "Adventmarkt am Rathausplatz Saalfelden",
@@ -3448,7 +2313,7 @@
       "kategorie": "Musik & Kultur"
     },
     {
-      "datum": "2026-12-04",
+      "datum": "2026-12-05",
       "beginn": null,
       "ende": null,
       "titel": "BERGFESTival",
@@ -3460,6 +2325,20 @@
       "beschreibung": "",
       "uhrzeit_bekannt": false,
       "kategorie": "Musik & Kultur"
+    },
+    {
+      "titel": "Christbaumverkauf mit kleinem Adventmarkt beim Spar Markt Günther",
+      "datum": "2026-12-05",
+      "beginn": null,
+      "ende": null,
+      "ort": "Uttendorf",
+      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
+      "quellen": [
+        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Märkte & Brauchtum"
     },
     {
       "titel": "Sternenadvent auf der Burg Kaprun",
@@ -3560,7 +2439,7 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
-      "datum": "2026-12-05",
+      "datum": "2026-12-06",
       "beginn": null,
       "ende": null,
       "titel": "BERGFESTival",
@@ -3574,8 +2453,8 @@
       "kategorie": "Musik & Kultur"
     },
     {
-      "titel": "Christbaumverkauf mit kleinem Adventmarkt beim Spar Markt Günther",
-      "datum": "2026-12-05",
+      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
+      "datum": "2026-12-06",
       "beginn": null,
       "ende": null,
       "ort": "Uttendorf",
@@ -3726,34 +2605,6 @@
       "uhrzeit_bekannt": true
     },
     {
-      "datum": "2026-12-06",
-      "beginn": null,
-      "ende": null,
-      "titel": "BERGFESTival",
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events/bergfestival_e_1644",
-      "quellen": [
-        "https://www.saalbach.com/de/events/bergfestival_e_1644"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Musik & Kultur"
-    },
-    {
-      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
-      "datum": "2026-12-06",
-      "beginn": null,
-      "ende": null,
-      "ort": "Uttendorf",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
       "titel": "Sternenadvent Markt am See",
       "datum": "2026-12-07",
       "beginn": "2026-12-07T16:00:00+01:00",
@@ -3776,32 +2627,6 @@
       "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent",
       "quellen": [
         "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Sternenschifffahrt mit der MS Schmittenhöhe",
-      "datum": "2026-12-08",
-      "beginn": "2026-12-08T15:00:00+01:00",
-      "ende": null,
-      "ort": "Esplanade, Zell am See",
-      "quelle": "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124",
-      "quellen": [
-        "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Sternenschifffahrt mit der MS Schmittenhöhe",
-      "datum": "2026-12-08",
-      "beginn": "2026-12-08T16:30:00+01:00",
-      "ende": null,
-      "ort": "Esplanade, Zell am See",
-      "quelle": "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124",
-      "quellen": [
-        "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124"
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true
@@ -3836,6 +2661,32 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
+      "titel": "Sternenschifffahrt mit der MS Schmittenhöhe",
+      "datum": "2026-12-08",
+      "beginn": "2026-12-08T15:00:00+01:00",
+      "ende": null,
+      "ort": "Esplanade, Zell am See",
+      "quelle": "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124",
+      "quellen": [
+        "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true
+    },
+    {
+      "titel": "Sternenschifffahrt mit der MS Schmittenhöhe",
+      "datum": "2026-12-08",
+      "beginn": "2026-12-08T16:30:00+01:00",
+      "ende": null,
+      "ort": "Esplanade, Zell am See",
+      "quelle": "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124",
+      "quellen": [
+        "https://www.schmitten.at/de/Events/Sternenschifffahrt_e_6124"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true
+    },
+    {
       "titel": "Zeller Sternenadvent am Stadtplatz",
       "datum": "2026-12-09",
       "beginn": "2026-12-09T15:00:00+01:00",
@@ -3862,6 +2713,20 @@
       "beschreibung": "",
       "uhrzeit_bekannt": true,
       "kategorie": "Märkte & Brauchtum"
+    },
+    {
+      "datum": "2026-12-10",
+      "beginn": null,
+      "ende": null,
+      "titel": "Rave on Snow",
+      "ort": "Saalbach Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/rave-on-snow_e_1655",
+      "quellen": [
+        "https://www.saalbach.com/de/events/rave-on-snow_e_1655"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Musik & Kultur"
     },
     {
       "titel": "Weihnachtsgeschichten im Museum",
@@ -3959,7 +2824,7 @@
       "kategorie": "Musik & Kultur"
     },
     {
-      "datum": "2026-12-10",
+      "datum": "2026-12-11",
       "beginn": null,
       "ende": null,
       "titel": "Rave on Snow",
@@ -4098,7 +2963,7 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
-      "datum": "2026-12-11",
+      "datum": "2026-12-12",
       "beginn": null,
       "ende": null,
       "titel": "Rave on Snow",
@@ -4237,7 +3102,7 @@
       "uhrzeit_bekannt": true
     },
     {
-      "datum": "2026-12-12",
+      "datum": "2026-12-13",
       "beginn": null,
       "ende": null,
       "titel": "Rave on Snow",
@@ -4249,6 +3114,20 @@
       "beschreibung": "",
       "uhrzeit_bekannt": false,
       "kategorie": "Musik & Kultur"
+    },
+    {
+      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
+      "datum": "2026-12-13",
+      "beginn": null,
+      "ende": null,
+      "ort": "Uttendorf",
+      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
+      "quellen": [
+        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Märkte & Brauchtum"
     },
     {
       "titel": "Adventmarkt am Rathausplatz Saalfelden",
@@ -4387,34 +3266,6 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-12-13",
-      "beginn": null,
-      "ende": null,
-      "titel": "Rave on Snow",
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events/rave-on-snow_e_1655",
-      "quellen": [
-        "https://www.saalbach.com/de/events/rave-on-snow_e_1655"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Musik & Kultur"
-    },
-    {
-      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
-      "datum": "2026-12-13",
-      "beginn": null,
-      "ende": null,
-      "ort": "Uttendorf",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Märkte & Brauchtum"
     },
     {
       "titel": "Zeller Sternenadvent am Stadtplatz",
@@ -4650,6 +3501,33 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
+      "datum": "2026-12-19",
+      "beginn": null,
+      "ende": null,
+      "titel": "50 Jahre Skicircus",
+      "ort": "Saalbach Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/50-jahre-skicircus_e_386383",
+      "quellen": [
+        "https://www.saalbach.com/de/events/50-jahre-skicircus_e_386383"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false
+    },
+    {
+      "datum": "2026-12-19",
+      "beginn": null,
+      "ende": null,
+      "titel": "Stiller Advent",
+      "ort": "Leogang",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent",
+      "quellen": [
+        "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Märkte & Brauchtum"
+    },
+    {
       "titel": "Adventmarkt am Rathausplatz Saalfelden",
       "datum": "2026-12-19",
       "beginn": "2026-12-19T12:00:00+01:00",
@@ -4773,20 +3651,7 @@
       "uhrzeit_bekannt": true
     },
     {
-      "datum": "2026-12-19",
-      "beginn": null,
-      "ende": null,
-      "titel": "50 Jahre Skicircus",
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events/50-jahre-skicircus_e_386383",
-      "quellen": [
-        "https://www.saalbach.com/de/events/50-jahre-skicircus_e_386383"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "datum": "2026-12-19",
+      "datum": "2026-12-20",
       "beginn": null,
       "ende": null,
       "titel": "Stiller Advent",
@@ -4794,6 +3659,20 @@
       "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent",
       "quellen": [
         "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Märkte & Brauchtum"
+    },
+    {
+      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
+      "datum": "2026-12-20",
+      "beginn": null,
+      "ende": null,
+      "ort": "Uttendorf",
+      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
+      "quellen": [
+        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false,
@@ -4923,34 +3802,6 @@
       "uhrzeit_bekannt": true
     },
     {
-      "datum": "2026-12-20",
-      "beginn": null,
-      "ende": null,
-      "titel": "Stiller Advent",
-      "ort": "Leogang",
-      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent",
-      "quellen": [
-        "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Turmblasen mit Bläsern der TMK Uttendorf",
-      "datum": "2026-12-20",
-      "beginn": null,
-      "ende": null,
-      "ort": "Uttendorf",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": false,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
       "titel": "Besuch der Tresterer",
       "datum": "2026-12-21",
       "beginn": "2026-12-21T16:00:00+01:00",
@@ -4991,20 +3842,6 @@
       "uhrzeit_bekannt": true
     },
     {
-      "titel": "Sternenadvent Markt am See",
-      "datum": "2026-12-22",
-      "beginn": "2026-12-22T16:00:00+01:00",
-      "ende": "2026-12-22T20:00:00+01:00",
-      "ort": "Stadtpark, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
       "datum": "2026-12-22",
       "beginn": null,
       "ende": null,
@@ -5017,6 +3854,20 @@
       "beschreibung": "",
       "uhrzeit_bekannt": false,
       "kategorie": "Sport & Berg"
+    },
+    {
+      "titel": "Sternenadvent Markt am See",
+      "datum": "2026-12-22",
+      "beginn": "2026-12-22T16:00:00+01:00",
+      "ende": "2026-12-22T20:00:00+01:00",
+      "ort": "Stadtpark, Zell am See",
+      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
+      "quellen": [
+        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Märkte & Brauchtum"
     },
     {
       "titel": "Zeller Sternenadvent am Stadtplatz",
@@ -5276,34 +4127,6 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
-      "titel": "Sternenadvent Markt am See",
-      "datum": "2026-12-29",
-      "beginn": "2026-12-29T16:00:00+01:00",
-      "ende": "2026-12-29T20:00:00+01:00",
-      "ort": "Stadtpark, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Martin Frank",
-      "datum": "2026-12-29",
-      "beginn": "2026-12-29T19:30:00+01:00",
-      "ende": "2026-12-29T21:30:00+01:00",
-      "ort": "Congress Saalfelden, Saalfelden",
-      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
-      "quellen": [
-        "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Musik & Kultur"
-    },
-    {
       "datum": "2026-12-29",
       "beginn": null,
       "ende": null,
@@ -5330,6 +4153,34 @@
       "beschreibung": "",
       "uhrzeit_bekannt": false,
       "kategorie": "Märkte & Brauchtum"
+    },
+    {
+      "titel": "Sternenadvent Markt am See",
+      "datum": "2026-12-29",
+      "beginn": "2026-12-29T16:00:00+01:00",
+      "ende": "2026-12-29T20:00:00+01:00",
+      "ort": "Stadtpark, Zell am See",
+      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
+      "quellen": [
+        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Märkte & Brauchtum"
+    },
+    {
+      "titel": "Martin Frank",
+      "datum": "2026-12-29",
+      "beginn": "2026-12-29T19:30:00+01:00",
+      "ende": "2026-12-29T21:30:00+01:00",
+      "ort": "Congress Saalfelden, Saalfelden",
+      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
+      "quellen": [
+        "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Musik & Kultur"
     },
     {
       "titel": "Sternenadvent Markt am See",
@@ -5430,12 +4281,27 @@
       "beginn": "2027-01-03T15:00:00+01:00",
       "ende": "2027-01-03T17:00:00+01:00",
       "ort": "Congress Saalfelden, Saalfelden",
-      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
+      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender/neujahrskonzert_event-detail_3464918",
       "quellen": [
+        "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender/neujahrskonzert_event-detail_3464918",
         "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender"
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true
+    },
+    {
+      "titel": "Die Nacht der Musicals",
+      "datum": "2027-01-03",
+      "beginn": "2027-01-03T20:00:00+01:00",
+      "ende": null,
+      "ort": "Ferry Porsche Congress Center, Zell am See",
+      "quelle": "https://www.fpcc.at/de/events-termine",
+      "quellen": [
+        "https://www.fpcc.at/de/events-termine"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Musik & Kultur"
     },
     {
       "titel": "Freeride Monday",
@@ -5501,6 +4367,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Nordic Park Experience – Biathlon-Workshop",
+      "datum": "2027-01-07",
+      "beginn": "2027-01-07T16:00:00+01:00",
+      "ende": "2027-01-07T19:00:00+01:00",
+      "ort": "Nordic Park Ritzensee, Saalfelden",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+      "quellen": [
+        "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+        "https://www.saalfelden-leogang.com/de/news-events/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Micaela Schäfer live",
@@ -5618,6 +4499,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Nordic Park Experience – Biathlon-Workshop",
+      "datum": "2027-01-14",
+      "beginn": "2027-01-14T16:00:00+01:00",
+      "ende": "2027-01-14T19:00:00+01:00",
+      "ort": "Nordic Park Ritzensee, Saalfelden",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+      "quellen": [
+        "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+        "https://www.saalfelden-leogang.com/de/news-events/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Dutchweek Zell am See–Kaprun",
@@ -5841,30 +4737,19 @@
       "uhrzeit_bekannt": false
     },
     {
-      "titel": "Mystic Mountain – Kitzsteinhorn Dining Night",
-      "datum": "2027-01-22",
-      "beginn": "2027-01-22T17:30:00+01:00",
-      "ende": null,
-      "ort": "Gletschermühle, Kaprun",
-      "quelle": "https://www.kitzsteinhorn.at/de/service/news-events/events",
+      "titel": "Nordic Park Experience – Biathlon-Workshop",
+      "datum": "2027-01-21",
+      "beginn": "2027-01-21T16:00:00+01:00",
+      "ende": "2027-01-21T19:00:00+01:00",
+      "ort": "Nordic Park Ritzensee, Saalfelden",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
       "quellen": [
-        "https://www.kitzsteinhorn.at/de/service/news-events/events"
+        "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+        "https://www.saalfelden-leogang.com/de/news-events/events"
       ],
       "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Gschreams",
-      "datum": "2027-01-22",
-      "beginn": "2027-01-22T19:30:00+01:00",
-      "ende": null,
-      "ort": "Pfarrsaal, Zell am See",
-      "quelle": "https://jeunesse.at/standorte/zell-am-see",
-      "quellen": [
-        "https://jeunesse.at/standorte/zell-am-see"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "3 Tage Jazz 2027",
@@ -5891,6 +4776,32 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 20.01.–24.01.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Mystic Mountain – Kitzsteinhorn Dining Night",
+      "datum": "2027-01-22",
+      "beginn": "2027-01-22T17:30:00+01:00",
+      "ende": null,
+      "ort": "Gletschermühle, Kaprun",
+      "quelle": "https://www.kitzsteinhorn.at/de/service/news-events/events",
+      "quellen": [
+        "https://www.kitzsteinhorn.at/de/service/news-events/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true
+    },
+    {
+      "titel": "Gschreams",
+      "datum": "2027-01-22",
+      "beginn": "2027-01-22T19:30:00+01:00",
+      "ende": null,
+      "ort": "Pfarrsaal, Zell am See",
+      "quelle": "https://jeunesse.at/standorte/zell-am-see",
+      "quellen": [
+        "https://jeunesse.at/standorte/zell-am-see"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true
     },
     {
       "titel": "3 Tage Jazz 2027",
@@ -6023,6 +4934,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Nordic Park Experience – Biathlon-Workshop",
+      "datum": "2027-01-28",
+      "beginn": "2027-01-28T16:00:00+01:00",
+      "ende": "2027-01-28T19:00:00+01:00",
+      "ort": "Nordic Park Ritzensee, Saalfelden",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+      "quellen": [
+        "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+        "https://www.saalfelden-leogang.com/de/news-events/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "FAT Ice Race",
       "datum": "2027-01-29",
       "beginn": null,
@@ -6140,19 +5066,6 @@
       "uhrzeit_bekannt": false
     },
     {
-      "titel": "Balloon Glow & Nightshow",
-      "datum": "2027-02-03",
-      "beginn": "2027-02-03T19:45:00+01:00",
-      "ende": null,
-      "ort": "cityXpress-Talstation, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/balloonalps",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/balloonalps"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
       "titel": "balloonalps",
       "datum": "2027-02-03",
       "beginn": null,
@@ -6192,6 +5105,19 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Balloon Glow & Nightshow",
+      "datum": "2027-02-03",
+      "beginn": "2027-02-03T19:45:00+01:00",
+      "ende": null,
+      "ort": "cityXpress-Talstation, Zell am See",
+      "quelle": "https://www.zellamsee-kaprun.com/de/events/balloonalps",
+      "quellen": [
+        "https://www.zellamsee-kaprun.com/de/events/balloonalps"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true
+    },
+    {
       "titel": "balloonalps",
       "datum": "2027-02-04",
       "beginn": null,
@@ -6229,6 +5155,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Nordic Park Experience – Biathlon-Workshop",
+      "datum": "2027-02-04",
+      "beginn": "2027-02-04T16:00:00+01:00",
+      "ende": "2027-02-04T19:00:00+01:00",
+      "ort": "Nordic Park Ritzensee, Saalfelden",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+      "quellen": [
+        "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+        "https://www.saalfelden-leogang.com/de/news-events/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "balloonalps",
@@ -6413,6 +5354,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Nordic Park Experience – Biathlon-Workshop",
+      "datum": "2027-02-11",
+      "beginn": "2027-02-11T16:00:00+01:00",
+      "ende": "2027-02-11T19:00:00+01:00",
+      "ort": "Nordic Park Ritzensee, Saalfelden",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+      "quellen": [
+        "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+        "https://www.saalfelden-leogang.com/de/news-events/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "risk’n’fun Freeride Training für 16- bis 30-Jährige",
       "datum": "2027-02-13",
       "beginn": null,
@@ -6556,6 +5512,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Nordic Park Experience – Biathlon-Workshop",
+      "datum": "2027-02-18",
+      "beginn": "2027-02-18T16:00:00+01:00",
+      "ende": "2027-02-18T19:00:00+01:00",
+      "ort": "Nordic Park Ritzensee, Saalfelden",
+      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+      "quellen": [
+        "https://www.saalfelden-leogang.com/de/news-events/events/nordic-park-experience_event_11853908",
+        "https://www.saalfelden-leogang.com/de/news-events/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Mystic Mountain – Kitzsteinhorn Dining Night",
       "datum": "2027-02-19",
       "beginn": "2027-02-19T17:30:00+01:00",
@@ -6660,19 +5631,6 @@
       "uhrzeit_bekannt": true
     },
     {
-      "titel": "Audi FIS Alpiner Skiweltcup",
-      "datum": "2027-02-27",
-      "beginn": null,
-      "ende": null,
-      "ort": "Zwölferkogel, Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 27.02.–28.02.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
       "titel": "risk’n’fun Freeride Training",
       "datum": "2027-02-27",
       "beginn": null,
@@ -6686,17 +5644,18 @@
       "uhrzeit_bekannt": false
     },
     {
-      "titel": "Audi FIS Alpiner Skiweltcup",
-      "datum": "2027-02-28",
-      "beginn": null,
+      "titel": "Audi FIS Alpiner Skiweltcup – Herren-Abfahrt",
+      "datum": "2027-02-27",
+      "beginn": "2027-02-27T11:30:00+01:00",
       "ende": null,
       "ort": "Zwölferkogel, Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
+      "quelle": "https://www.saalbach.com/skiweltcup",
       "quellen": [
+        "https://www.saalbach.com/skiweltcup",
         "https://www.saalbach.com/de/events"
       ],
       "beschreibung": "Veranstaltungszeitraum 27.02.–28.02.2027.",
-      "uhrzeit_bekannt": false
+      "uhrzeit_bekannt": true
     },
     {
       "titel": "risk’n’fun Freeride Training",
@@ -6710,6 +5669,20 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 27.02.–03.03.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Audi FIS Alpiner Skiweltcup – Herren-Super-G",
+      "datum": "2027-02-28",
+      "beginn": "2027-02-28T11:30:00+01:00",
+      "ende": null,
+      "ort": "Zwölferkogel, Saalbach Hinterglemm",
+      "quelle": "https://www.saalbach.com/skiweltcup",
+      "quellen": [
+        "https://www.saalbach.com/skiweltcup",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Veranstaltungszeitraum 27.02.–28.02.2027.",
+      "uhrzeit_bekannt": true
     },
     {
       "titel": "Freeride Monday",
@@ -6829,6 +5802,20 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Impulso Tenors",
+      "datum": "2027-03-03",
+      "beginn": "2027-03-03T19:30:00+01:00",
+      "ende": null,
+      "ort": "Ferry Porsche Congress Center, Zell am See",
+      "quelle": "https://www.fpcc.at/de/events-termine",
+      "quellen": [
+        "https://www.fpcc.at/de/events-termine"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Musik & Kultur"
+    },
+    {
       "titel": "Dutchweek Zell am See–Kaprun",
       "datum": "2027-03-04",
       "beginn": null,
@@ -6855,17 +5842,19 @@
       "uhrzeit_bekannt": false
     },
     {
-      "titel": "Klavierduo Gugg",
-      "datum": "2027-03-05",
-      "beginn": "2027-03-05T19:30:00+01:00",
-      "ende": null,
-      "ort": "Pfarrsaal, Zell am See",
-      "quelle": "https://jeunesse.at/standorte/zell-am-see",
+      "titel": "Petutschnig Hons – Hons im Glück",
+      "datum": "2027-03-04",
+      "beginn": "2027-03-04T19:00:00+01:00",
+      "ende": "2027-03-04T21:30:00+01:00",
+      "ort": "Congress Saalfelden, Saalfelden",
+      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender/petutschnig-hons_event-detail_11360717",
       "quellen": [
-        "https://jeunesse.at/standorte/zell-am-see"
+        "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender/petutschnig-hons_event-detail_11360717",
+        "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender"
       ],
       "beschreibung": "",
-      "uhrzeit_bekannt": true
+      "uhrzeit_bekannt": true,
+      "kategorie": "Musik & Kultur"
     },
     {
       "titel": "Dutchweek Zell am See–Kaprun",
@@ -6879,6 +5868,19 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 03.03.–06.03.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Klavierduo Gugg",
+      "datum": "2027-03-05",
+      "beginn": "2027-03-05T19:30:00+01:00",
+      "ende": null,
+      "ort": "Pfarrsaal, Zell am See",
+      "quelle": "https://jeunesse.at/standorte/zell-am-see",
+      "quellen": [
+        "https://jeunesse.at/standorte/zell-am-see"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true
     },
     {
       "titel": "Dutchweek Zell am See–Kaprun",
@@ -6983,6 +5985,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 12.03.–14.03.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Gondel.Alm.Genuss – Gondeldinner",
+      "datum": "2027-03-12",
+      "beginn": null,
+      "ende": null,
+      "ort": "Natrunbahn, Maria Alm",
+      "quelle": "https://www.hochkoenig.at/de/events-highlights/veranstaltungen/gondeldinner-in-der-region-hochkoenig.html",
+      "quellen": [
+        "https://www.hochkoenig.at/de/events-highlights/veranstaltungen/gondeldinner-in-der-region-hochkoenig.html",
+        "https://www.hochkoenig.at/de/events-highlights/veranstaltungen/top-events-und-veranstaltungen-am-hochkoenig.html"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Kulinarik"
     },
     {
       "titel": "Chasing Slopes Festival",
@@ -7622,8 +6639,36 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Die Schöne und das Biest – das Musical",
+      "datum": "2027-04-01",
+      "beginn": "2027-04-01T16:00:00+02:00",
+      "ende": null,
+      "ort": "Ferry Porsche Congress Center, Zell am See",
+      "quelle": "https://www.zellamsee.eu/Die_Schoene_und_das_Biest_das_Musical_1",
+      "quellen": [
+        "https://www.zellamsee.eu/Die_Schoene_und_das_Biest_das_Musical_1",
+        "https://www.fpcc.at/de/events-termine"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Musik & Kultur"
+    },
+    {
       "titel": "World Rookie Tour Finals",
       "datum": "2027-04-02",
+      "beginn": null,
+      "ende": null,
+      "ort": "Kitzsteinhorn, Kaprun",
+      "quelle": "https://www.kitzsteinhorn.at/de/service/news-events/events",
+      "quellen": [
+        "https://www.kitzsteinhorn.at/de/service/news-events/events"
+      ],
+      "beschreibung": "Veranstaltungszeitraum 31.03.–05.04.2027.",
+      "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "World Rookie Tour Finals",
+      "datum": "2027-04-03",
       "beginn": null,
       "ende": null,
       "ort": "Kitzsteinhorn, Kaprun",
@@ -7640,25 +6685,13 @@
       "beginn": "2027-04-03T19:30:00+02:00",
       "ende": "2027-04-03T21:30:00+02:00",
       "ort": "Congress Saalfelden, Saalfelden",
-      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
+      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender/martin-frank_event-detail_11734471",
       "quellen": [
+        "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender/martin-frank_event-detail_11734471",
         "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender"
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "World Rookie Tour Finals",
-      "datum": "2027-04-03",
-      "beginn": null,
-      "ende": null,
-      "ort": "Kitzsteinhorn, Kaprun",
-      "quelle": "https://www.kitzsteinhorn.at/de/service/news-events/events",
-      "quellen": [
-        "https://www.kitzsteinhorn.at/de/service/news-events/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 31.03.–05.04.2027.",
-      "uhrzeit_bekannt": false
     },
     {
       "titel": "World Rookie Tour Finals",
@@ -7778,19 +6811,6 @@
       "uhrzeit_bekannt": false
     },
     {
-      "titel": "Five Gold Rings",
-      "datum": "2027-04-17",
-      "beginn": "2027-04-17T19:30:00+02:00",
-      "ende": null,
-      "ort": "Pfarrsaal, Zell am See",
-      "quelle": "https://jeunesse.at/standorte/zell-am-see",
-      "quellen": [
-        "https://jeunesse.at/standorte/zell-am-see"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
       "titel": "Austria Snowpark Days",
       "datum": "2027-04-17",
       "beginn": null,
@@ -7802,6 +6822,19 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Five Gold Rings",
+      "datum": "2027-04-17",
+      "beginn": "2027-04-17T19:30:00+02:00",
+      "ende": null,
+      "ort": "Pfarrsaal, Zell am See",
+      "quelle": "https://jeunesse.at/standorte/zell-am-see",
+      "quellen": [
+        "https://jeunesse.at/standorte/zell-am-see"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true
     },
     {
       "titel": "Freeride Monday",
@@ -8114,448 +7147,6 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-05-29",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-05-30",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-05-31",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-06-01",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-06-02",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-06-03",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Women’s Triathlon Camp",
-      "datum": "2027-06-03",
-      "beginn": null,
-      "ende": null,
-      "ort": "Zell am See und Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 03.06.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-06-04",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Gipfeltreffen – Mountainbike Opening",
-      "datum": "2027-06-04",
-      "beginn": null,
-      "ende": null,
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 04.06.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Women’s Triathlon Camp",
-      "datum": "2027-06-04",
-      "beginn": null,
-      "ende": null,
-      "ort": "Zell am See und Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 03.06.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-06-05",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Gipfeltreffen – Mountainbike Opening",
-      "datum": "2027-06-05",
-      "beginn": null,
-      "ende": null,
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 04.06.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Women’s Triathlon Camp",
-      "datum": "2027-06-05",
-      "beginn": null,
-      "ende": null,
-      "ort": "Zell am See und Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 03.06.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Bike Park Coach",
-      "datum": "2027-06-06",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 29.05.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Gipfeltreffen – Mountainbike Opening",
-      "datum": "2027-06-06",
-      "beginn": null,
-      "ende": null,
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 04.06.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Women’s Triathlon Camp",
-      "datum": "2027-06-06",
-      "beginn": null,
-      "ende": null,
-      "ort": "Zell am See und Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 03.06.–06.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Biker Mania Reloaded",
-      "datum": "2027-06-10",
-      "beginn": null,
-      "ende": null,
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 10.06.–13.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Biker Mania Reloaded",
-      "datum": "2027-06-11",
-      "beginn": null,
-      "ende": null,
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 10.06.–13.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "UCI Mountainbike-Weltcup",
-      "datum": "2027-06-11",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 11.06.–13.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Biker Mania Reloaded",
-      "datum": "2027-06-12",
-      "beginn": null,
-      "ende": null,
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 10.06.–13.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "UCI Mountainbike-Weltcup",
-      "datum": "2027-06-12",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 11.06.–13.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Biker Mania Reloaded",
-      "datum": "2027-06-13",
-      "beginn": null,
-      "ende": null,
-      "ort": "Saalbach Hinterglemm",
-      "quelle": "https://www.saalbach.com/de/events",
-      "quellen": [
-        "https://www.saalbach.com/de/events"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 10.06.–13.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "UCI Mountainbike-Weltcup",
-      "datum": "2027-06-13",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 11.06.–13.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Line Dance AlpFestival",
-      "datum": "2027-06-17",
-      "beginn": null,
-      "ende": null,
-      "ort": "Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 17.06.–20.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Line Dance AlpFestival",
-      "datum": "2027-06-18",
-      "beginn": null,
-      "ende": null,
-      "ort": "Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 17.06.–20.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Line Dance AlpFestival",
-      "datum": "2027-06-19",
-      "beginn": null,
-      "ende": null,
-      "ort": "Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 17.06.–20.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Style & Gravity Days",
-      "datum": "2027-06-19",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 19.06.–20.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Line Dance AlpFestival",
-      "datum": "2027-06-20",
-      "beginn": null,
-      "ende": null,
-      "ort": "Kaprun",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 17.06.–20.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "Style & Gravity Days",
-      "datum": "2027-06-20",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 19.06.–20.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "L1 Aufbaumodul Guide",
-      "datum": "2027-06-26",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 26.06.–30.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "L1 Aufbaumodul Guide",
-      "datum": "2027-06-27",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 26.06.–30.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "L1 Aufbaumodul Guide",
-      "datum": "2027-06-28",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 26.06.–30.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "L1 Aufbaumodul Guide",
-      "datum": "2027-06-29",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 26.06.–30.06.2027.",
-      "uhrzeit_bekannt": false
-    },
-    {
-      "titel": "L1 Aufbaumodul Guide",
-      "datum": "2027-06-30",
-      "beginn": null,
-      "ende": null,
-      "ort": "Bikepark, Leogang",
-      "quelle": "https://www.elements-outdoorsports.at/de/camps",
-      "quellen": [
-        "https://www.elements-outdoorsports.at/de/camps"
-      ],
-      "beschreibung": "Veranstaltungszeitraum 26.06.–30.06.2027.",
-      "uhrzeit_bekannt": false
     }
   ]
 }

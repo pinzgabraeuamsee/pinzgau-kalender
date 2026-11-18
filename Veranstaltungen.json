@@ -1,898 +1,846 @@
 {
   "zeitraum": {
-    "von": "2026-11-17",
-    "bis": "2027-05-17"
+    "von": "2026-11-18",
+    "bis": "2027-05-18"
   },
-  "datum": "2026-11-17",
+  "datum": "2026-11-18",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 509,
-  "importiert_am": "2026-11-17",
-  "abdeckung": "166 registrierte URLs aus Bestandsdatei und ergänzender Quellenliste, einschließlich URL-Varianten. 12 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte datierte Listen und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
+  "anzahl": 521,
+  "importiert_am": "2026-11-18",
+  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 13 ohne aussagekräftigen Direktabruf. Übersichten, ausgewählte Gemeindelisten und verifizierte Einzeltermine bzw. Terminserien ausgewertet. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
   "quellen": [
     {
       "url": "https://wasmachma.at/bezirk/zell-am-see/events",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 8
+      "anzahl": 8,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.maishofen.com/de/saalbach-zell-am-see/region-orte/veranstaltungen-in-maishofen.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 1
+      "anzahl": 1,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.bruck-fusch.at/de/veranstaltungen/veranstaltungskalender",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Einzelterminen.",
-      "anzahl": 53
+      "anzahl": 69,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Datierte Schneeschuhserie und Einzeltermin verifiziert."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 29
+      "anzahl": 29,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 1
+      "anzahl": 1,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.uttendorf.com/veranstaltungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.hochkoenig.at/de/events-highlights/veranstaltungen/top-events-und-veranstaltungen-am-hochkoenig.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zillertalarena.com/wald-koenigsleiten/der-ort/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Veranstaltungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Einzelterminen.",
-      "anzahl": 3
+      "anzahl": 3,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 4
+      "anzahl": 3,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.saalbach.or.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalfelden.eu/Leben_in_Saalfelden/Veranstaltungen",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 1
+      "anzahl": 1,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.meinbezirk.at/event/pinzgau",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.platzhirsch.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.salzburg24.at/news/salzburg/pinzgau/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.sn.at/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.sn.at/salzburg/pinzgau/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.svh.at/pinzgauer-woche/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.weekend.at/bundesland/salzburg",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.mittersill.info/de/service/mittersiller-nachrichten.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.sbsshopping.at/sbs-journal",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.journalverlag.com/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://jeunesse.at/standorte/zell-am-see",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 5
+      "anzahl": 5,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zell-e.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 4
+      "anzahl": 4,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://culturkreis.at/programm/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.maishofen.at/Theatergruppe_Maishofen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.burg-kaprun.at/events/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.museum-kaprun.at/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 1
+      "anzahl": 1,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://kunsthausnexus.com/programm/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 9
+      "anzahl": 8,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.museum-saalfelden.at/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://vogtturm.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.freiraum-kultur-leogang.com/",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.theater-ecce.com/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.cinetheatro.com/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.tauriska.at/aktuelles-2/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.festivalhohetauern.at/",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.bm-zellamsee.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.musik-kaprun.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://buergermusik-saalfelden.at/de",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.prozell.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.prozell.at/STERNENADVENT-MARKT/",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.stadtmarketing-saalfelden.at/de/Veranstaltungen-Aktionen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://pinzgau.landjugend.at/termine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.ek-zellereisbaeren.at/de/Aktuelles/Spielplan",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.alps.hockey/saison/spiele",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.fc-pinzgau.at/mannschaften/kampfmannschaft.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.fczellamsee.at/de/teams/kampfmannschaft/index.php",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://ticker.ligaportal.at/mannschaft/506/fc-kaprun/spielplan",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://ticker.ligaportal.at/mannschaft/476/sk-bruck/spielplan",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.skmfussball.training/spielplan",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://ticker.ligaportal.at/mannschaft/479/usc-saalbach-hinterglemm/spielplan",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.golf-zellamsee.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.brandlhof.com/golfurlaub/golfturniere/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://golf-urslautal.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://yachtclub-zell.at/RegattenUebersicht.html",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.skiclub-zellamsee.at/termine/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.skiclub-kaprun.at/de/termine/2026",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.schiklubsaalfelden.net/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.schiclub.net/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.skm.at/termine/",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://zellamsee.tennisplatz.info/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.ttc-saalfelden.at/kalender/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.saalfelden-sportklub.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.kcsaalfelden.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://pfarren-zellamsee.at/zellamsee/gottesdienste/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://pfarren-zellamsee.at/schuettdorf/gottesdienste/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://pfarren-zellamsee.at/thumersbach/gottesdienste/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.pfarre.kaprun.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.pfarre.kaprun.at/aktuelles/gottesdienste/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.maishofen.at/Gottesdienstordnung",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.saalbach.or.at/Gottesdienstordnung",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.pfarre-bruck.at/termine/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.edsbg.at/pfarre/st-georgen-pinzgau",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.pfarre-saalfelden.at/",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.fusch.at/Unser_Fusch/Der_Ort/Religion/Gottesdienstordnungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.viehhofen.gv.at/Pfarrgemeinderat",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://pfarre-leogang.at/pfarrblatt-und-gottesdienstordnung/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Einzelterminen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.pfarre-mariaalm.at/index.php/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/terminvorschau--aktuelles",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/gottesdienste2/wann-und-wo",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.evangelisch-im-pinzgau.at/glaube--leben/gemeindebrief",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.schmitten.at/de/Events",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.kitzsteinhorn.at/de/service/news-events/events",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 115
+      "anzahl": 115,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalfelden-leogang.com/Wochen-und-Eventprogramm",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.tonspurenamasitz.com/de",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalfelden-leogang.com/Konzerte",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.saalfelden-leogang.com/Sinne-Park",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.tonspurenamasitz.com/de/TONspur-trifft-Kulinarik",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/almkultur",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.hochalmbahnen.at/de/winter/information/veranstaltungskalender",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.gletscherwelt-weissee.at/de/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.skialm-lofer.com/de/infos/veranstaltungen-lofer",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.skialm-lofer.com/de/neues-lofer-winter/die-besten-events",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.panoramabahn.at/de/top-veranstaltungen.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.panoramabahn.at/de/informationen-der-panoramabahn.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.kitzski.at/de/skigebiet-tirol/top-events-bei-kitzski-sei-dabei.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.kitzski.at/de/wandern-biken/sommer-events.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.facebook.com/prozell.at",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.facebook.com/gemeindesaalbach/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee.eu/Leben_Freizeit/Kultur_Freizeit/Vereine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.kaprun.at/de/kaprun/vereine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Vereine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.saalfelden.at/Leben_in_Saalfelden/Vereine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.sav-theater.at/index.php?article_id=36",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.hakzell.at/termine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 1
+      "anzahl": 1,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.hlpzell.at/termine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.gymzell.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.gymnasium-saalfelden.at/service/termine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.schigymnasium.at/aktuelles",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.htlsaalfelden.at/schule/allgemeines/terminkalender",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.hblw-saalfelden.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.lfs-bruck.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.bildung-sbg.gv.at/allgemeines/termine.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://musikum.at/de/musikschulen/musikum-zell-am-see-saalfelden/musikum-oeffne-dich/veranstaltungen-konzerte-klassenabende",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.volkshochschule.at/kurssuche/suche",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.volkshochschule.at/ueber-uns/bildungsnahversorgung/pinzgau",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.salzburgerbildungswerk.at/",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.saalfelden.at/Bildungszentrum_4",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 4
+      "anzahl": 4,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://biblio-kaprun.bvoe.at/veranstaltungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://bruck.dieselkino.at/programmuebersicht/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://bruck.dieselkino.at/attraktionen/premieren/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://bruck.dieselkino.at/attraktionen/kino-anders/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://bruck.dieselkino.at/attraktionen/mein-erster-kinobesuch/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.tauernspakaprun.com/de/mehr/veranstaltungskalender",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.tauernspakaprun.com/de/mehr/wochenprogramm",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.tauernspakaprun.com/de/special/thermenkalender",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.nationalparkzentrum.at/de/events-tagungen/veranstaltungen",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://zellamsee.kiwanis.at/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://zellamsee.kiwanis.at/clubprogramm/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://saalfelden.lions.at/de/veranstaltungen/clubtermine-oeffentlich.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://zell-am-see.lions.at/de/club/clubinformationen.html",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://kaprun.lions.at/de/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://mittersill.lions.at/de/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.mittersill.at/Lions_Flohmarkt_2026",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten. Ergänzend gezielte Suche nach datierten Einzelterminen. Datierte Gemeindeliste und Einzeltermine ausgewertet.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://pinzgau.rotaract.at/de/agenda",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://zellamsee.rotary.at/bs/organisation/about-us",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://rotary.at/de/organisation/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://zellamsee.soroptimist.at/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://rollendeherzen.at/rollende-herzen-verteilen-statt-wegwerfen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.peercenter.at/veranstaltungen.php",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://termine.blut.at/",
-      "status": "Kein aussagekräftiger Direktabruf. Bestand im Zeitfenster erhalten.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.hilfswerk.at/salzburg/news-aktivitaeten/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.fpcc.at/de/events-termine",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 10
+      "anzahl": 10,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 8
+      "anzahl": 8,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.brandlhof.com/veranstaltungen/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.burg-kaprun.at/veranstaltungen-events/",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/dutchweek-winter",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 8
+      "anzahl": 8,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/fat-ice-race",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 2
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/balloonalps",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 9
+      "anzahl": 9,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/event/ski-golf-world-championship~11495/1809669600",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 4
+      "anzahl": 4,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/event/line-dance-alpfestival~10698",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/yoga-festival-beats-berge_event_10609896",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 4
+      "anzahl": 4,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.elements-outdoorsports.at/de/camps",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 4
+      "anzahl": 4,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.fpcc.at/de/events-termine?utm_source=chatgpt.com",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender?utm_source=chatgpt.com",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
     },
     {
       "url": "https://www.brandlhof.com/veranstaltungen/?utm_source=chatgpt.com",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.nationalparkzentrum.at/de/events-tagungen/veranstaltungen?utm_source=chatgpt.com",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.burg-kaprun.at/veranstaltungen-events/?utm_source=chatgpt.com",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.tauernspakaprun.com/de/mehr/veranstaltungskalender?utm_source=chatgpt.com",
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen.",
-      "anzahl": 0
+      "anzahl": 0,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     }
   ],
   "veranstaltungen": [
-    {
-      "titel": "\"Hol´ dir dein Kinderbetreuungsgeld und mehr!\" - Online Vortrag",
-      "beginn": "2026-11-17T19:00:00+01:00",
-      "datum": "2026-11-17",
-      "ende": "2026-11-17T20:30:00+01:00",
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Lady´s Night. Hitzewallung? Schlafprobleme? Unruhezustände?",
-      "beginn": "2026-11-17T19:00:00+01:00",
-      "datum": "2026-11-17",
-      "ende": "2026-11-17T23:00:00+01:00",
-      "ort": "Bruck an der Großglocknerstraße",
-      "beschreibung": "",
-      "quelle": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
-      "quellen": [
-        "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Nachtanbetung in der Pfarre Maishofen 19 Uhr Hl. Messe anschließend Eucharistische Anbedung mis MI 18.11.; 7Uhr Hl. Messe",
-      "beginn": "2026-11-17T19:00:00+01:00",
-      "datum": "2026-11-17",
-      "ende": null,
-      "ort": "Maishofen",
-      "beschreibung": "",
-      "quelle": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-      "quellen": [
-        "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Bergfilmfestival | MIT DEM RAD DURCH AFRIKA – SAME SUN",
-      "datum": "2026-11-17",
-      "beginn": "2026-11-17T20:00:00+01:00",
-      "ende": null,
-      "ort": "Kunsthaus Nexus, Saalfelden",
-      "quelle": "https://kunsthausnexus.com/programm/",
-      "quellen": [
-        "https://kunsthausnexus.com/programm/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
     {
       "titel": "Zeller Sternenadvent am Stadtplatz",
       "datum": "2026-11-18",
@@ -3162,6 +3110,21 @@
       "uhrzeit_bekannt": true
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2026-12-18",
+      "beginn": "2026-12-18T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Adventmarkt am Rathausplatz Saalfelden",
       "datum": "2026-12-18",
       "beginn": "2026-12-18T12:00:00+01:00",
@@ -3795,6 +3758,21 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2026-12-25",
+      "beginn": "2026-12-25T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Sternenschifffahrt mit der MS Schmittenhöhe",
       "datum": "2026-12-25",
       "beginn": "2026-12-25T13:30:00+01:00",
@@ -4150,6 +4128,21 @@
       "kategorie": "Brauchtum"
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-01-01",
+      "beginn": "2027-01-01T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "risk’n’fun LOCALS",
       "datum": "2027-01-02",
       "beginn": null,
@@ -4314,6 +4307,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-01-08",
+      "beginn": "2027-01-08T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Freeride Monday",
       "datum": "2027-01-11",
       "beginn": null,
@@ -4472,6 +4480,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-01-15",
+      "beginn": "2027-01-15T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "SportAKTIV Langlaufcamp 2027",
@@ -4796,6 +4819,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 20.01.–24.01.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-01-22",
+      "beginn": "2027-01-22T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Mahan Mirarab „Unspoken“",
@@ -5151,6 +5189,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-01-29",
+      "beginn": "2027-01-29T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Damour and the Good",
       "datum": "2027-01-29",
       "beginn": "2027-01-29T20:00:00+01:00",
@@ -5447,6 +5500,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-02-05",
+      "beginn": "2027-02-05T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "balloonalps",
       "datum": "2027-02-06",
       "beginn": null,
@@ -5629,6 +5697,21 @@
         "https://www.saalfelden-leogang.com/de/news-events/events"
       ],
       "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-02-12",
+      "beginn": "2027-02-12T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
       "uhrzeit_bekannt": true,
       "kategorie": "Sport"
     },
@@ -5836,6 +5919,21 @@
       "kategorie": "Sport"
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-02-19",
+      "beginn": "2027-02-19T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Mystic Mountain – Kitzsteinhorn Dining Night",
       "datum": "2027-02-19",
       "beginn": "2027-02-19T17:30:00+01:00",
@@ -5970,6 +6068,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-02-26",
+      "beginn": "2027-02-26T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Nockis live",
@@ -6270,6 +6383,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-03-05",
+      "beginn": "2027-03-05T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Klavierduo Gugg",
       "datum": "2027-03-05",
       "beginn": "2027-03-05T19:30:00+01:00",
@@ -6416,6 +6544,21 @@
       "beschreibung": "",
       "uhrzeit_bekannt": false,
       "kategorie": "Kulinarik"
+    },
+    {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-03-12",
+      "beginn": "2027-03-12T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Chasing Slopes Festival",
@@ -6680,6 +6823,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-03-19",
+      "beginn": "2027-03-19T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Dutchweek Saalbach",
       "datum": "2027-03-20",
       "beginn": null,
@@ -6901,6 +7059,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-03-26",
+      "beginn": "2027-03-26T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "White Pearl Mountain Days",
       "datum": "2027-03-27",
       "beginn": null,
@@ -7111,6 +7284,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 31.03.–05.04.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
+      "datum": "2027-04-02",
+      "beginn": "2027-04-02T09:00:00+02:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+      "quellen": [
+        "https://www.saalbach.com/de/events/snowshoe-day-schneeschuh-wandern-in-saalbach_e_386677",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "World Rookie Tour Finals",

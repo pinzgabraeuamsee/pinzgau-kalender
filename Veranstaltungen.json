@@ -1,13 +1,13 @@
 {
   "zeitraum": {
-    "von": "2026-11-18",
-    "bis": "2027-05-18"
+    "von": "2026-11-19",
+    "bis": "2027-05-19"
   },
-  "datum": "2026-11-18",
+  "datum": "2026-11-19",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 521,
-  "importiert_am": "2026-11-18",
-  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 13 ohne aussagekräftigen Direktabruf. Übersichten, ausgewählte Gemeindelisten und verifizierte Einzeltermine bzw. Terminserien ausgewertet. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
+  "anzahl": 535,
+  "importiert_am": "2026-11-19",
+  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 12 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten und verifizierte Einzeltermine bzw. Terminserien geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
   "quellen": [
     {
       "url": "https://wasmachma.at/bezirk/zell-am-see/events",
@@ -22,22 +22,22 @@
     {
       "url": "https://www.maishofen.com/de/saalbach-zell-am-see/region-orte/veranstaltungen-in-maishofen.html",
       "anzahl": 1,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.bruck-fusch.at/de/veranstaltungen/veranstaltungskalender",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "anzahl": 69,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Datierte Schneeschuhserie und Einzeltermin verifiziert."
+      "anzahl": 83,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Termine der Reiterkogel-Serie geprüft."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
       "anzahl": 29,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
@@ -72,12 +72,12 @@
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
       "anzahl": 3,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalbach.or.at/",
@@ -87,7 +87,7 @@
     {
       "url": "https://www.saalfelden.eu/Leben_in_Saalfelden/Veranstaltungen",
       "anzahl": 1,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.meinbezirk.at/event/pinzgau",
@@ -127,7 +127,7 @@
     {
       "url": "https://www.mittersill.info/de/service/mittersiller-nachrichten.html",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.sbsshopping.at/sbs-journal",
@@ -151,7 +151,7 @@
     },
     {
       "url": "https://www.zell-e.at/",
-      "anzahl": 4,
+      "anzahl": 3,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -162,7 +162,7 @@
     {
       "url": "https://www.maishofen.at/Theatergruppe_Maishofen",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.burg-kaprun.at/events/",
@@ -182,7 +182,7 @@
     {
       "url": "https://www.museum-saalfelden.at/veranstaltungen/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://vogtturm.at/",
@@ -227,7 +227,7 @@
     {
       "url": "https://buergermusik-saalfelden.at/de",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.prozell.at/",
@@ -242,7 +242,7 @@
     {
       "url": "https://www.stadtmarketing-saalfelden.at/de/Veranstaltungen-Aktionen",
       "anzahl": 2,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://pinzgau.landjugend.at/termine",
@@ -322,7 +322,7 @@
     {
       "url": "https://www.schiklubsaalfelden.net/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.schiclub.net/",
@@ -342,17 +342,17 @@
     {
       "url": "https://www.ttc-saalfelden.at/kalender/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalfelden-sportklub.at/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.kcsaalfelden.at/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://pfarren-zellamsee.at/zellamsee/gottesdienste/",
@@ -382,7 +382,7 @@
     {
       "url": "https://www.maishofen.at/Gottesdienstordnung",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalbach.or.at/Gottesdienstordnung",
@@ -402,7 +402,7 @@
     {
       "url": "https://www.pfarre-saalfelden.at/",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.fusch.at/Unser_Fusch/Der_Ort/Religion/Gottesdienstordnungen",
@@ -457,7 +457,7 @@
     {
       "url": "https://www.saalfelden-leogang.com/Wochen-und-Eventprogramm",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.tonspurenamasitz.com/de",
@@ -467,12 +467,12 @@
     {
       "url": "https://www.saalfelden-leogang.com/Konzerte",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalfelden-leogang.com/Sinne-Park",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.tonspurenamasitz.com/de/TONspur-trifft-Kulinarik",
@@ -482,7 +482,7 @@
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/almkultur",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.hochalmbahnen.at/de/winter/information/veranstaltungskalender",
@@ -547,12 +547,12 @@
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Vereine",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalfelden.at/Leben_in_Saalfelden/Vereine",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.sav-theater.at/index.php?article_id=36",
@@ -577,7 +577,7 @@
     {
       "url": "https://www.gymnasium-saalfelden.at/service/termine",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.schigymnasium.at/aktuelles",
@@ -587,12 +587,12 @@
     {
       "url": "https://www.htlsaalfelden.at/schule/allgemeines/terminkalender",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.hblw-saalfelden.at/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.lfs-bruck.at/",
@@ -607,12 +607,12 @@
     {
       "url": "https://musikum.at/de/musikschulen/musikum-zell-am-see-saalfelden/musikum-oeffne-dich/veranstaltungen-konzerte-klassenabende",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.volkshochschule.at/kurssuche/suche",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.volkshochschule.at/ueber-uns/bildungsnahversorgung/pinzgau",
@@ -626,8 +626,8 @@
     },
     {
       "url": "https://www.saalfelden.at/Bildungszentrum_4",
-      "anzahl": 4,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "anzahl": 3,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://biblio-kaprun.bvoe.at/veranstaltungen",
@@ -687,7 +687,7 @@
     {
       "url": "https://saalfelden.lions.at/de/veranstaltungen/clubtermine-oeffentlich.html",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://zell-am-see.lions.at/de/club/clubinformationen.html",
@@ -702,12 +702,12 @@
     {
       "url": "https://mittersill.lions.at/de/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.mittersill.at/Lions_Flohmarkt_2026",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://pinzgau.rotaract.at/de/agenda",
@@ -757,7 +757,7 @@
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
       "anzahl": 8,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.brandlhof.com/veranstaltungen/",
@@ -802,7 +802,7 @@
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/yoga-festival-beats-berge_event_10609896",
       "anzahl": 4,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.elements-outdoorsports.at/de/camps",
@@ -817,7 +817,7 @@
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender?utm_source=chatgpt.com",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende gezielte Suche nach datierten Detailseiten und Gemeindelisten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.brandlhof.com/veranstaltungen/?utm_source=chatgpt.com",
@@ -841,47 +841,6 @@
     }
   ],
   "veranstaltungen": [
-    {
-      "titel": "Zeller Sternenadvent am Stadtplatz",
-      "datum": "2026-11-18",
-      "beginn": "2026-11-18T15:00:00+01:00",
-      "ende": "2026-11-18T21:00:00+01:00",
-      "ort": "Stadtplatz, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Bildungszentrum: Frauenzeit",
-      "datum": "2026-11-18",
-      "beginn": "2026-11-18T18:00:00+01:00",
-      "ende": "2026-11-18T20:00:00+01:00",
-      "ort": "Bildungszentrum, Saalfelden",
-      "quelle": "https://www.saalfelden.at/Bildungszentrum_4",
-      "quellen": [
-        "https://www.saalfelden.at/Bildungszentrum_4"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-18",
-      "beginn": "2026-11-18T19:00:00+01:00",
-      "ende": null,
-      "titel": "TOUCH ME! – Vernissage",
-      "ort": "Galerie POSTart, Zell am See",
-      "quelle": "https://www.zell-e.at/",
-      "quellen": [
-        "https://www.zell-e.at/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Musik & Kultur"
-    },
     {
       "titel": "Beratungstage Tauernwärme",
       "beginn": "2026-11-19T08:00:00+01:00",
@@ -4005,6 +3964,21 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2026-12-31",
+      "beginn": "2026-12-31T10:00:00+01:00",
+      "ende": "2026-12-31T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Sternenschifffahrt mit der MS Schmittenhöhe",
       "datum": "2026-12-31",
       "beginn": "2026-12-31T13:30:00+01:00",
@@ -4279,6 +4253,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-01-07",
+      "beginn": "2027-01-07T10:00:00+01:00",
+      "ende": "2027-01-07T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Nordic Park Experience – Biathlon-Workshop",
       "datum": "2027-01-07",
       "beginn": "2027-01-07T16:00:00+01:00",
@@ -4439,6 +4428,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-01-14",
+      "beginn": "2027-01-14T10:00:00+01:00",
+      "ende": "2027-01-14T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Nordic Park Experience – Biathlon-Workshop",
@@ -4764,6 +4768,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-01-21",
+      "beginn": "2027-01-21T10:00:00+01:00",
+      "ende": "2027-01-21T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Nordic Park Experience – Biathlon-Workshop",
@@ -5161,6 +5180,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-01-28",
+      "beginn": "2027-01-28T10:00:00+01:00",
+      "ende": "2027-01-28T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Nordic Park Experience – Biathlon-Workshop",
       "datum": "2027-01-28",
       "beginn": "2027-01-28T16:00:00+01:00",
@@ -5459,6 +5493,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-02-04",
+      "beginn": "2027-02-04T10:00:00+01:00",
+      "ende": "2027-02-04T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Nordic Park Experience – Biathlon-Workshop",
       "datum": "2027-02-04",
       "beginn": "2027-02-04T16:00:00+01:00",
@@ -5686,6 +5735,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-02-11",
+      "beginn": "2027-02-11T10:00:00+01:00",
+      "ende": "2027-02-11T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Nordic Park Experience – Biathlon-Workshop",
       "datum": "2027-02-11",
       "beginn": "2027-02-11T16:00:00+01:00",
@@ -5904,6 +5968,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-02-18",
+      "beginn": "2027-02-18T10:00:00+01:00",
+      "ende": "2027-02-18T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Nordic Park Experience – Biathlon-Workshop",
       "datum": "2027-02-18",
       "beginn": "2027-02-18T16:00:00+01:00",
@@ -6068,6 +6147,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-02-25",
+      "beginn": "2027-02-25T10:00:00+01:00",
+      "ende": "2027-02-25T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Snowshoe Day – Schneeschuhwandern in Saalbach",
@@ -6355,6 +6449,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-03-04",
+      "beginn": "2027-03-04T10:00:00+01:00",
+      "ende": "2027-03-04T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Petutschnig Hons – Hons im Glück",
       "datum": "2027-03-04",
       "beginn": "2027-03-04T19:00:00+01:00",
@@ -6516,6 +6625,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-03-11",
+      "beginn": "2027-03-11T10:00:00+01:00",
+      "ende": "2027-03-11T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Chasing Slopes Festival",
@@ -6784,6 +6908,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-03-18",
+      "beginn": "2027-03-18T10:00:00+01:00",
+      "ende": "2027-03-18T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Dutchweek Saalbach",
       "datum": "2027-03-19",
       "beginn": null,
@@ -7046,6 +7185,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-03-25",
+      "beginn": "2027-03-25T10:00:00+01:00",
+      "ende": "2027-03-25T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "White Pearl Mountain Days",
       "datum": "2027-03-26",
       "beginn": null,
@@ -7256,6 +7410,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 31.03.–05.04.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Geführte Schneeschuhwanderung: Reiterkogel",
+      "datum": "2027-04-01",
+      "beginn": "2027-04-01T10:00:00+02:00",
+      "ende": "2027-04-01T14:00:00+02:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+      "quellen": [
+        "https://www.saalbach.com/de/events/gefuehrte-schneeschuh-wanderung-reiterkogel_e_386601",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "Anmeldung bis zum Vortag. Mindestteilnehmerzahl 6 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Die Schöne und das Biest – das Musical",
@@ -7662,6 +7831,20 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Florianifeier",
+      "datum": "2027-05-02",
+      "beginn": "2027-05-02T10:00:00+02:00",
+      "ende": "2027-05-02T12:00:00+02:00",
+      "ort": "Mittersill",
+      "quelle": "https://www.mittersill.at/Florianifeier",
+      "quellen": [
+        "https://www.mittersill.at/Florianifeier"
+      ],
+      "beschreibung": "Veranstalter Freiwillige Feuerwehr der Stadt Mittersill.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Brauchtum"
+    },
+    {
       "titel": "elooa CAMP GOOD TIMES",
       "datum": "2027-05-05",
       "beginn": null,
@@ -7811,6 +7994,20 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kermes – Fest der Köstlichkeiten",
+      "datum": "2027-05-08",
+      "beginn": null,
+      "ende": null,
+      "ort": "Aufeldstraße 3, Mittersill",
+      "quelle": "https://www.mittersill.at/Kermes_-_Fest_der_Koestlichkeiten",
+      "quellen": [
+        "https://www.mittersill.at/Kermes_-_Fest_der_Koestlichkeiten"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Kulinarik"
+    },
+    {
       "titel": "Ladies Camp",
       "datum": "2027-05-08",
       "beginn": null,
@@ -7876,6 +8073,20 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 05.05.–09.05.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kermes – Fest der Köstlichkeiten",
+      "datum": "2027-05-09",
+      "beginn": null,
+      "ende": null,
+      "ort": "Aufeldstraße 3, Mittersill",
+      "quelle": "https://www.mittersill.at/Kermes_-_Fest_der_Koestlichkeiten",
+      "quellen": [
+        "https://www.mittersill.at/Kermes_-_Fest_der_Koestlichkeiten"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": false,
+      "kategorie": "Kulinarik"
     },
     {
       "titel": "Ladies Camp",

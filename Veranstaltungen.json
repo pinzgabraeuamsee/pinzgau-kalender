@@ -1,13 +1,13 @@
 {
   "zeitraum": {
-    "von": "2026-11-19",
-    "bis": "2027-05-19"
+    "von": "2026-11-20",
+    "bis": "2027-05-20"
   },
-  "datum": "2026-11-19",
+  "datum": "2026-11-20",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 535,
-  "importiert_am": "2026-11-19",
-  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 12 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten und verifizierte Einzeltermine bzw. Terminserien geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
+  "anzahl": 536,
+  "importiert_am": "2026-11-20",
+  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 12 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten, datierte Serien und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
   "quellen": [
     {
       "url": "https://wasmachma.at/bezirk/zell-am-see/events",
@@ -22,22 +22,22 @@
     {
       "url": "https://www.maishofen.com/de/saalbach-zell-am-see/region-orte/veranstaltungen-in-maishofen.html",
       "anzahl": 1,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.bruck-fusch.at/de/veranstaltungen/veranstaltungskalender",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "anzahl": 83,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Termine der Reiterkogel-Serie geprüft."
+      "anzahl": 90,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Datierte Ellmaualm-Terminliste und Einzeltermin geprüft."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
       "anzahl": 29,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.wildkogel-arena.at/de/events-aktuelles/veranstaltungen.html",
@@ -66,13 +66,13 @@
     },
     {
       "url": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "anzahl": 3,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
+      "anzahl": 2,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
       "anzahl": 3,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
@@ -87,7 +87,7 @@
     {
       "url": "https://www.saalfelden.eu/Leben_in_Saalfelden/Veranstaltungen",
       "anzahl": 1,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.meinbezirk.at/event/pinzgau",
@@ -127,7 +127,7 @@
     {
       "url": "https://www.mittersill.info/de/service/mittersiller-nachrichten.html",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.sbsshopping.at/sbs-journal",
@@ -141,7 +141,7 @@
     },
     {
       "url": "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-      "anzahl": 2,
+      "anzahl": 1,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -162,7 +162,7 @@
     {
       "url": "https://www.maishofen.at/Theatergruppe_Maishofen",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.burg-kaprun.at/events/",
@@ -176,13 +176,13 @@
     },
     {
       "url": "https://kunsthausnexus.com/programm/",
-      "anzahl": 8,
+      "anzahl": 6,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.museum-saalfelden.at/veranstaltungen/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://vogtturm.at/",
@@ -227,7 +227,7 @@
     {
       "url": "https://buergermusik-saalfelden.at/de",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.prozell.at/",
@@ -242,7 +242,7 @@
     {
       "url": "https://www.stadtmarketing-saalfelden.at/de/Veranstaltungen-Aktionen",
       "anzahl": 2,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://pinzgau.landjugend.at/termine",
@@ -322,7 +322,7 @@
     {
       "url": "https://www.schiklubsaalfelden.net/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.schiclub.net/",
@@ -342,17 +342,17 @@
     {
       "url": "https://www.ttc-saalfelden.at/kalender/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalfelden-sportklub.at/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.kcsaalfelden.at/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://pfarren-zellamsee.at/zellamsee/gottesdienste/",
@@ -382,7 +382,7 @@
     {
       "url": "https://www.maishofen.at/Gottesdienstordnung",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalbach.or.at/Gottesdienstordnung",
@@ -402,7 +402,7 @@
     {
       "url": "https://www.pfarre-saalfelden.at/",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.fusch.at/Unser_Fusch/Der_Ort/Religion/Gottesdienstordnungen",
@@ -457,7 +457,7 @@
     {
       "url": "https://www.saalfelden-leogang.com/Wochen-und-Eventprogramm",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.tonspurenamasitz.com/de",
@@ -467,12 +467,12 @@
     {
       "url": "https://www.saalfelden-leogang.com/Konzerte",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalfelden-leogang.com/Sinne-Park",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.tonspurenamasitz.com/de/TONspur-trifft-Kulinarik",
@@ -482,7 +482,7 @@
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/almkultur",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.hochalmbahnen.at/de/winter/information/veranstaltungskalender",
@@ -547,12 +547,12 @@
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Vereine",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalfelden.at/Leben_in_Saalfelden/Vereine",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.sav-theater.at/index.php?article_id=36",
@@ -577,7 +577,7 @@
     {
       "url": "https://www.gymnasium-saalfelden.at/service/termine",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.schigymnasium.at/aktuelles",
@@ -587,12 +587,12 @@
     {
       "url": "https://www.htlsaalfelden.at/schule/allgemeines/terminkalender",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.hblw-saalfelden.at/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.lfs-bruck.at/",
@@ -607,7 +607,7 @@
     {
       "url": "https://musikum.at/de/musikschulen/musikum-zell-am-see-saalfelden/musikum-oeffne-dich/veranstaltungen-konzerte-klassenabende",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.volkshochschule.at/kurssuche/suche",
@@ -627,7 +627,7 @@
     {
       "url": "https://www.saalfelden.at/Bildungszentrum_4",
       "anzahl": 3,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://biblio-kaprun.bvoe.at/veranstaltungen",
@@ -687,7 +687,7 @@
     {
       "url": "https://saalfelden.lions.at/de/veranstaltungen/clubtermine-oeffentlich.html",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://zell-am-see.lions.at/de/club/clubinformationen.html",
@@ -702,12 +702,12 @@
     {
       "url": "https://mittersill.lions.at/de/",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.mittersill.at/Lions_Flohmarkt_2026",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://pinzgau.rotaract.at/de/agenda",
@@ -757,7 +757,7 @@
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
       "anzahl": 8,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.brandlhof.com/veranstaltungen/",
@@ -802,7 +802,7 @@
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events/yoga-festival-beats-berge_event_10609896",
       "anzahl": 4,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.elements-outdoorsports.at/de/camps",
@@ -817,7 +817,7 @@
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender?utm_source=chatgpt.com",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzend gezielte Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.brandlhof.com/veranstaltungen/?utm_source=chatgpt.com",
@@ -841,86 +841,6 @@
     }
   ],
   "veranstaltungen": [
-    {
-      "titel": "Beratungstage Tauernwärme",
-      "beginn": "2026-11-19T08:00:00+01:00",
-      "datum": "2026-11-19",
-      "ende": "2026-11-19T18:00:00+01:00",
-      "ort": "Gemeinde Kaprun, Wilhelm-Fazokas-Straße 20a, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "quellen": [
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Zeller Sternenadvent am Stadtplatz",
-      "datum": "2026-11-19",
-      "beginn": "2026-11-19T15:00:00+01:00",
-      "ende": "2026-11-19T21:00:00+01:00",
-      "ort": "Stadtplatz, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Sternenadvent Markt am See",
-      "datum": "2026-11-19",
-      "beginn": "2026-11-19T16:00:00+01:00",
-      "ende": "2026-11-19T20:00:00+01:00",
-      "ort": "Stadtpark, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Kinderkino | MONSTER MIA",
-      "datum": "2026-11-19",
-      "beginn": "2026-11-19T17:00:00+01:00",
-      "ende": "2026-11-19T18:35:00+01:00",
-      "ort": "Kunsthaus Nexus, Saalfelden",
-      "quelle": "https://kunsthausnexus.com/programm/",
-      "quellen": [
-        "https://kunsthausnexus.com/programm/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Brotbacken mit der Holzeggbäuerin",
-      "datum": "2026-11-19",
-      "beginn": "2026-11-19T19:00:00+01:00",
-      "ende": null,
-      "ort": "Lohninghof, Zell am See",
-      "quelle": "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-      "quellen": [
-        "https://www.lohninghof.at/veranstaltungen-uebersicht/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Bergfilmfestival | MESSNER 2.0 – SIMON MESSNER – Aus dem Schatten",
-      "datum": "2026-11-19",
-      "beginn": "2026-11-19T20:00:00+01:00",
-      "ende": null,
-      "ort": "Kunsthaus Nexus, Saalfelden",
-      "quelle": "https://kunsthausnexus.com/programm/",
-      "quellen": [
-        "https://kunsthausnexus.com/programm/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
     {
       "titel": "Chris Neuschmid Trio",
       "beginn": null,
@@ -4186,6 +4106,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ellmaualm",
+      "datum": "2027-01-04",
+      "beginn": "2027-01-04T10:00:00+01:00",
+      "ende": "2027-01-04T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kitzsteinhorn Explorer Tour",
       "datum": "2027-01-05",
       "beginn": null,
@@ -4662,6 +4597,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ellmaualm",
+      "datum": "2027-01-18",
+      "beginn": "2027-01-18T10:00:00+01:00",
+      "ende": "2027-01-18T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kitzsteinhorn Explorer Tour",
@@ -5348,6 +5298,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ellmaualm",
+      "datum": "2027-02-01",
+      "beginn": "2027-02-01T10:00:00+01:00",
+      "ende": "2027-02-01T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "balloonalps",
       "datum": "2027-02-02",
       "beginn": null,
@@ -5847,6 +5812,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ellmaualm",
+      "datum": "2027-02-15",
+      "beginn": "2027-02-15T10:00:00+01:00",
+      "ende": "2027-02-15T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kitzsteinhorn Explorer Tour",
       "datum": "2027-02-16",
       "beginn": null,
@@ -6285,6 +6265,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 27.02.–03.03.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ellmaualm",
+      "datum": "2027-03-01",
+      "beginn": "2027-03-01T10:00:00+01:00",
+      "ende": "2027-03-01T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kitzsteinhorn Explorer Tour",
@@ -6761,6 +6756,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ellmaualm",
+      "datum": "2027-03-15",
+      "beginn": "2027-03-15T10:00:00+01:00",
+      "ende": "2027-03-15T14:00:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Dutchweek Saalbach",
@@ -7293,6 +7303,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ellmaualm",
+      "datum": "2027-03-29",
+      "beginn": "2027-03-29T10:00:00+02:00",
+      "ende": "2027-03-29T14:00:00+02:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ellmaualm_e_386762",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Austrian & German Masters",

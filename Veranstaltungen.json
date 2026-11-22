@@ -1,13 +1,13 @@
 {
   "zeitraum": {
-    "von": "2026-11-21",
-    "bis": "2027-05-21"
+    "von": "2026-11-22",
+    "bis": "2027-05-22"
   },
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 536,
-  "importiert_am": "2026-11-21",
-  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 18 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten, datierte Serien und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
+  "anzahl": 541,
+  "importiert_am": "2026-11-22",
+  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 11 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten, datierte Serien und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
   "quellen": [
     {
       "url": "https://wasmachma.at/bezirk/zell-am-see/events",
@@ -21,7 +21,7 @@
     },
     {
       "url": "https://www.maishofen.com/de/saalbach-zell-am-see/region-orte/veranstaltungen-in-maishofen.html",
-      "anzahl": 1,
+      "anzahl": 0,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "anzahl": 97,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Datierte Bergstadl-Terminliste und Einzeltermin geprüft."
+      "anzahl": 111,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Datierte Ossmannalm-Terminliste und Einzeltermin geprüft."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
@@ -51,7 +51,7 @@
     },
     {
       "url": "https://www.hochkoenig.at/de/events-highlights/veranstaltungen/top-events-und-veranstaltungen-am-hochkoenig.html",
-      "anzahl": 2,
+      "anzahl": 1,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -67,17 +67,17 @@
     {
       "url": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
       "anzahl": 1,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-      "anzahl": 3,
+      "anzahl": 2,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.bruck-grossglockner.at/Unser_Bruck/Ortsleben/Veranstaltungen/Veranstaltungen",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.saalbach.or.at/",
@@ -141,7 +141,7 @@
     },
     {
       "url": "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-      "anzahl": 1,
+      "anzahl": 0,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "url": "https://www.zell-e.at/",
-      "anzahl": 3,
+      "anzahl": 2,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -167,12 +167,12 @@
     {
       "url": "https://www.burg-kaprun.at/events/",
       "anzahl": 2,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.museum-kaprun.at/veranstaltungen/",
       "anzahl": 1,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://kunsthausnexus.com/programm/",
@@ -192,7 +192,7 @@
     {
       "url": "https://www.freiraum-kultur-leogang.com/",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.theater-ecce.com/",
@@ -222,7 +222,7 @@
     {
       "url": "https://www.musik-kaprun.at/",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://buergermusik-saalfelden.at/de",
@@ -342,7 +342,7 @@
     {
       "url": "https://www.ttc-saalfelden.at/kalender/",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
       "url": "https://www.saalfelden-sportklub.at/",
@@ -756,7 +756,7 @@
     },
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
-      "anzahl": 8,
+      "anzahl": 7,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
@@ -767,7 +767,7 @@
     {
       "url": "https://www.burg-kaprun.at/veranstaltungen-events/",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/dutchweek-winter",
@@ -832,7 +832,7 @@
     {
       "url": "https://www.burg-kaprun.at/veranstaltungen-events/?utm_source=chatgpt.com",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.tauernspakaprun.com/de/mehr/veranstaltungskalender?utm_source=chatgpt.com",
@@ -841,129 +841,6 @@
     }
   ],
   "veranstaltungen": [
-    {
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T11:30:00+01:00",
-      "ende": null,
-      "titel": "TOUCH ME! – Artist Talk mit Antonio Labuhar",
-      "ort": "Galerie POSTart, Zell am See",
-      "quelle": "https://www.zell-e.at/",
-      "quellen": [
-        "https://www.zell-e.at/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Musik & Kultur"
-    },
-    {
-      "titel": "Nationalparkadvent Mittersill",
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T14:00:00+01:00",
-      "ende": "2026-11-21T21:00:00+01:00",
-      "ort": "Stadtplatz, Mittersill",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Saalfeldner Krampusrummel",
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T14:00:00+01:00",
-      "ende": null,
-      "ort": "Saalfelden",
-      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent",
-      "quellen": [
-        "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Sternenadvent Markt am See",
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T14:00:00+01:00",
-      "ende": "2026-11-21T20:00:00+01:00",
-      "ort": "Stadtpark, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Adventmarkt der Pfarre auf dem Kirchplatz",
-      "beginn": "2026-11-21T15:00:00+01:00",
-      "datum": "2026-11-21",
-      "ende": "2026-11-21T19:00:00+01:00",
-      "ort": "Maishofen",
-      "beschreibung": "",
-      "quelle": "https://www.maishofen.com/de/saalbach-zell-am-see/events/details/adventmarkt-pfarre-maishofen.html",
-      "quellen": [
-        "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-        "https://www.maishofen.com/de/saalbach-zell-am-see/region-orte/veranstaltungen-in-maishofen.html"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Zeller Sternenadvent am Stadtplatz",
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T15:00:00+01:00",
-      "ende": "2026-11-21T21:00:00+01:00",
-      "ort": "Stadtplatz, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Konzert: Nathalie Oberkofler",
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T19:30:00+01:00",
-      "ende": null,
-      "ort": "Lohninghof, Zell am See",
-      "quelle": "https://www.lohninghof.at/veranstaltungen-uebersicht/",
-      "quellen": [
-        "https://www.lohninghof.at/veranstaltungen-uebersicht/"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Cäciliakonzert",
-      "ort": "Mühlbach am Hochkönig",
-      "quelle": "https://muehlbacherhof.hochkoenig.at/de/veranstaltung/muehlbach-caeciliakonzert.html",
-      "quellen": [
-        "https://www.hochkoenig.at/de/events-highlights/veranstaltungen/top-events-und-veranstaltungen-am-hochkoenig.html"
-      ],
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T20:00:00+01:00",
-      "ende": null,
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Cäciliakonzert 2026",
-      "datum": "2026-11-21",
-      "beginn": "2026-11-21T20:00:00+01:00",
-      "ende": "2026-11-21T23:45:00+01:00",
-      "ort": "Congress Saalfelden, Saalfelden",
-      "quelle": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender",
-      "quellen": [
-        "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Musik & Kultur"
-    },
     {
       "titel": "Nationalparkadvent Mittersill",
       "datum": "2026-11-22",
@@ -3776,6 +3653,21 @@
       "kategorie": "Musik & Kultur"
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2026-12-30",
+      "beginn": "2026-12-30T10:00:00+01:00",
+      "ende": "2026-12-30T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2026-12-30",
       "beginn": "2026-12-30T13:00:00+01:00",
@@ -4081,6 +3973,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-01-06",
+      "beginn": "2027-01-06T10:00:00+01:00",
+      "ende": "2027-01-06T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2027-01-06",
       "beginn": "2027-01-06T13:00:00+01:00",
@@ -4258,6 +4165,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-01-13",
+      "beginn": "2027-01-13T10:00:00+01:00",
+      "ende": "2027-01-13T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Langlauf Schnuppertraining",
@@ -4613,6 +4535,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-01-20",
+      "beginn": "2027-01-20T10:00:00+01:00",
+      "ende": "2027-01-20T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Langlauf Schnuppertraining",
@@ -5053,6 +4990,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-01-27",
+      "beginn": "2027-01-27T10:00:00+01:00",
+      "ende": "2027-01-27T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2027-01-27",
       "beginn": "2027-01-27T13:00:00+01:00",
@@ -5342,6 +5294,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-02-03",
+      "beginn": "2027-02-03T10:00:00+01:00",
+      "ende": "2027-02-03T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2027-02-03",
       "beginn": "2027-02-03T13:00:00+01:00",
@@ -5625,6 +5592,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-02-10",
+      "beginn": "2027-02-10T10:00:00+01:00",
+      "ende": "2027-02-10T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2027-02-10",
       "beginn": "2027-02-10T13:00:00+01:00",
@@ -5886,6 +5868,21 @@
       "kategorie": "Markt"
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-02-17",
+      "beginn": "2027-02-17T10:00:00+01:00",
+      "ende": "2027-02-17T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2027-02-17",
       "beginn": "2027-02-17T13:00:00+01:00",
@@ -6080,6 +6077,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-02-24",
+      "beginn": "2027-02-24T10:00:00+01:00",
+      "ende": "2027-02-24T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Langlauf Schnuppertraining",
@@ -6354,6 +6366,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-03-03",
+      "beginn": "2027-03-03T10:00:00+01:00",
+      "ende": "2027-03-03T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2027-03-03",
       "beginn": "2027-03-03T13:00:00+01:00",
@@ -6588,6 +6615,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-03-10",
+      "beginn": "2027-03-10T10:00:00+01:00",
+      "ende": "2027-03-10T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Langlauf Schnuppertraining",
@@ -6858,6 +6900,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-03-17",
+      "beginn": "2027-03-17T10:00:00+01:00",
+      "ende": "2027-03-17T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Langlauf Schnuppertraining",
@@ -7180,6 +7237,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-03-24",
+      "beginn": "2027-03-24T10:00:00+01:00",
+      "ende": "2027-03-24T14:30:00+01:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Ski Touring Thursday",
       "datum": "2027-03-25",
       "beginn": null,
@@ -7420,6 +7492,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 31.03.–05.04.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Ossmannalm",
+      "datum": "2027-03-31",
+      "beginn": "2027-03-31T10:00:00+02:00",
+      "ende": "2027-03-31T14:30:00+02:00",
+      "ort": "12er KOGEL Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-ossmannalm_e_386760",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Ski Touring Thursday",

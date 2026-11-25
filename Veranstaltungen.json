@@ -1,12 +1,12 @@
 {
   "zeitraum": {
-    "von": "2026-11-24",
-    "bis": "2027-05-24"
+    "von": "2026-11-25",
+    "bis": "2027-05-25"
   },
-  "datum": "2026-11-24",
+  "datum": "2026-11-25",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 558,
-  "importiert_am": "2026-11-24",
+  "anzahl": 565,
+  "importiert_am": "2026-11-25",
   "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 11 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten, explizit datierte Serien und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
   "quellen": [
     {
@@ -31,8 +31,8 @@
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "anzahl": 134,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Rosswaldhütte-Termine und Einzeltermin geprüft."
+      "anzahl": 143,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Sonnseitpromenade-Termine und Einzeltermin geprüft."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
@@ -66,7 +66,7 @@
     },
     {
       "url": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "anzahl": 1,
+      "anzahl": 0,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
@@ -626,7 +626,7 @@
     },
     {
       "url": "https://www.saalfelden.at/Bildungszentrum_4",
-      "anzahl": 2,
+      "anzahl": 1,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
@@ -841,32 +841,6 @@
     }
   ],
   "veranstaltungen": [
-    {
-      "titel": "Green Circle",
-      "beginn": "2026-11-24T14:00:00+01:00",
-      "datum": "2026-11-24",
-      "ende": "2026-11-24T17:00:00+01:00",
-      "ort": "TVB Kaprun, Salzburger Platz 6, 5710 Kaprun",
-      "beschreibung": "",
-      "quelle": "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen",
-      "quellen": [
-        "https://www.kaprun.gv.at/Buergerservice/Aktuelles/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Vortrag mit Yury Kazepov: Wo wir leben, macht einen Unterschied",
-      "datum": "2026-11-24",
-      "beginn": "2026-11-24T19:00:00+01:00",
-      "ende": "2026-11-24T20:30:00+01:00",
-      "ort": "Bildungszentrum, Saalfelden",
-      "quelle": "https://www.saalfelden.at/Bildungszentrum_4",
-      "quellen": [
-        "https://www.saalfelden.at/Bildungszentrum_4"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
     {
       "titel": "Zeller Sternenadvent am Stadtplatz",
       "datum": "2026-11-25",
@@ -3908,6 +3882,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-01-05",
+      "beginn": "2027-01-05T10:00:00+01:00",
+      "ende": "2027-01-05T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Mogul Wednesday",
       "datum": "2027-01-06",
       "beginn": null,
@@ -4283,6 +4272,21 @@
         "https://www.saalbach.com/de/events"
       ],
       "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-01-15",
+      "beginn": "2027-01-15T10:00:00+01:00",
+      "ende": "2027-01-15T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
       "uhrzeit_bekannt": true,
       "kategorie": "Sport"
     },
@@ -4987,6 +4991,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-01-26",
+      "beginn": "2027-01-26T10:00:00+01:00",
+      "ende": "2027-01-26T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Mogul Wednesday",
       "datum": "2027-01-27",
       "beginn": null,
@@ -5515,6 +5534,21 @@
       "kategorie": "Sport"
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-02-05",
+      "beginn": "2027-02-05T10:00:00+01:00",
+      "ende": "2027-02-05T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "balloonalps",
       "datum": "2027-02-06",
       "beginn": null,
@@ -5912,6 +5946,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-02-16",
+      "beginn": "2027-02-16T10:00:00+01:00",
+      "ende": "2027-02-16T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Mogul Wednesday",
       "datum": "2027-02-17",
       "beginn": null,
@@ -6291,6 +6340,21 @@
         "https://www.saalbach.com/de/events"
       ],
       "beschreibung": "Anmeldung erforderlich. Mindestteilnehmerzahl 3 Personen.",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-02-26",
+      "beginn": "2027-02-26T10:00:00+01:00",
+      "ende": "2027-02-26T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
       "uhrzeit_bekannt": true,
       "kategorie": "Sport"
     },
@@ -6762,6 +6826,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-03-09",
+      "beginn": "2027-03-09T10:00:00+01:00",
+      "ende": "2027-03-09T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Mogul Wednesday",
@@ -7258,6 +7337,21 @@
       "kategorie": "Sport"
     },
     {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-03-19",
+      "beginn": "2027-03-19T10:00:00+01:00",
+      "ende": "2027-03-19T14:00:00+01:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Dutchweek Saalbach",
       "datum": "2027-03-20",
       "beginn": null,
@@ -7688,6 +7782,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Kostenlos geführte Wanderung: Sonnseitpromenade",
+      "datum": "2027-03-30",
+      "beginn": "2027-03-30T10:00:00+02:00",
+      "ende": "2027-03-30T14:00:00+02:00",
+      "ort": "Schattberg X-Press Talstation, Saalbach",
+      "quelle": "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+      "quellen": [
+        "https://www.saalbach.com/de/events/kostenlos-gefuehrte-wanderung-sonnseitpromenade_e_386885",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Austrian & German Masters",

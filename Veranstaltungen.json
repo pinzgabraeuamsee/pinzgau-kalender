@@ -1,13 +1,13 @@
 {
   "zeitraum": {
-    "von": "2026-11-26",
-    "bis": "2027-05-26"
+    "von": "2026-11-27",
+    "bis": "2027-05-27"
   },
-  "datum": "2026-11-26",
+  "datum": "2026-11-27",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 578,
-  "importiert_am": "2026-11-26",
-  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 11 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten, explizit datierte Serien und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
+  "anzahl": 590,
+  "importiert_am": "2026-11-27",
+  "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 12 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten, explizit datierte Serien und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
   "quellen": [
     {
       "url": "https://wasmachma.at/bezirk/zell-am-see/events",
@@ -31,8 +31,8 @@
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "anzahl": 157,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Talschluss-Termine und Einzeltermin geprüft."
+      "anzahl": 173,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Eiskletter-Termine und Einzeltermin geprüft."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
@@ -397,7 +397,7 @@
     {
       "url": "https://www.edsbg.at/pfarre/st-georgen-pinzgau",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.pfarre-saalfelden.at/",
@@ -841,61 +841,6 @@
     }
   ],
   "veranstaltungen": [
-    {
-      "titel": "Zeller Sternenadvent am Stadtplatz",
-      "datum": "2026-11-26",
-      "beginn": "2026-11-26T15:00:00+01:00",
-      "ende": "2026-11-26T21:00:00+01:00",
-      "ort": "Stadtplatz, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Sternenadvent Markt am See",
-      "datum": "2026-11-26",
-      "beginn": "2026-11-26T16:00:00+01:00",
-      "ende": "2026-11-26T20:00:00+01:00",
-      "ort": "Stadtpark, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "datum": "2026-11-26",
-      "beginn": "2026-11-26T17:00:00+01:00",
-      "ende": null,
-      "titel": "Blutspendeaktion",
-      "ort": "Hollersbach im Pinzgau",
-      "quelle": "https://www.hollersbach.at/system/web/veranstaltung.aspx?detailonr=226246555&menuonr=225078857&sprache=1",
-      "quellen": [
-        "https://www.hollersbach.at/system/web/veranstaltung.aspx?detailonr=226246555&menuonr=225078857&sprache=1"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Soziales & Gesundheit"
-    },
-    {
-      "titel": "Christkindlmarkt am Ritzensee",
-      "datum": "2026-11-26",
-      "beginn": "2026-11-26T17:00:00+01:00",
-      "ende": null,
-      "ort": "Saalfelden",
-      "quelle": "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent",
-      "quellen": [
-        "https://www.saalfelden-leogang.com/de/news-events/events/stoaberg-advent"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
     {
       "titel": "Adventmarkt am Rathausplatz Saalfelden",
       "datum": "2026-11-27",
@@ -2526,6 +2471,21 @@
       "uhrzeit_bekannt": true
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2026-12-16",
+      "beginn": "2026-12-16T08:30:00+01:00",
+      "ende": "2026-12-16T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2026-12-16",
       "beginn": "2026-12-16T13:00:00+01:00",
@@ -3173,6 +3133,21 @@
       "kategorie": "Märkte & Brauchtum"
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2026-12-23",
+      "beginn": "2026-12-23T08:30:00+01:00",
+      "ende": "2026-12-23T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Langlauf Schnuppertraining",
       "datum": "2026-12-23",
       "beginn": "2026-12-23T13:00:00+01:00",
@@ -3561,6 +3536,21 @@
       "kategorie": "Musik & Kultur"
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2026-12-30",
+      "beginn": "2026-12-30T08:30:00+01:00",
+      "ende": "2026-12-30T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
       "datum": "2026-12-30",
       "beginn": "2026-12-30T10:00:00+01:00",
@@ -3926,6 +3916,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-01-06",
+      "beginn": "2027-01-06T08:30:00+01:00",
+      "ende": "2027-01-06T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
       "datum": "2027-01-06",
       "beginn": "2027-01-06T10:00:00+01:00",
@@ -4163,6 +4168,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-01-13",
+      "beginn": "2027-01-13T08:30:00+01:00",
+      "ende": "2027-01-13T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
@@ -4593,6 +4613,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-01-20",
+      "beginn": "2027-01-20T08:30:00+01:00",
+      "ende": "2027-01-20T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
@@ -5093,6 +5128,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-01-27",
+      "beginn": "2027-01-27T08:30:00+01:00",
+      "ende": "2027-01-27T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
       "datum": "2027-01-27",
       "beginn": "2027-01-27T10:00:00+01:00",
@@ -5440,6 +5490,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-02-03",
+      "beginn": "2027-02-03T08:30:00+01:00",
+      "ende": "2027-02-03T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
@@ -5800,6 +5865,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-02-10",
+      "beginn": "2027-02-10T08:30:00+01:00",
+      "ende": "2027-02-10T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
       "datum": "2027-02-10",
       "beginn": "2027-02-10T10:00:00+01:00",
@@ -6106,6 +6186,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-02-17",
+      "beginn": "2027-02-17T08:30:00+01:00",
+      "ende": "2027-02-17T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Fastenmarkt",
       "datum": "2027-02-17",
       "beginn": "2027-02-17T10:00:00+01:00",
@@ -6375,6 +6470,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-02-24",
+      "beginn": "2027-02-24T08:30:00+01:00",
+      "ende": "2027-02-24T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
@@ -6724,6 +6834,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-03-03",
+      "beginn": "2027-03-03T08:30:00+01:00",
+      "ende": "2027-03-03T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
       "datum": "2027-03-03",
       "beginn": "2027-03-03T10:00:00+01:00",
@@ -7018,6 +7143,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-03-10",
+      "beginn": "2027-03-10T08:30:00+01:00",
+      "ende": "2027-03-10T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
@@ -7348,6 +7488,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-03-17",
+      "beginn": "2027-03-17T08:30:00+01:00",
+      "ende": "2027-03-17T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
@@ -7745,6 +7900,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-03-24",
+      "beginn": "2027-03-24T08:30:00+01:00",
+      "ende": "2027-03-24T15:00:00+01:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",
       "datum": "2027-03-24",
       "beginn": "2027-03-24T10:00:00+01:00",
@@ -8045,6 +8215,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 31.03.–05.04.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Eiskletterkurs – Schnuppertag",
+      "datum": "2027-03-31",
+      "beginn": "2027-03-31T08:30:00+02:00",
+      "ende": "2027-03-31T15:00:00+02:00",
+      "ort": "Talschluss Parkplatz Lengau, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+      "quellen": [
+        "https://www.saalbach.com/de/events/eiskletterkurs-schnuppertag_e_364400",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Kostenlos geführte Wanderung: Ossmannalm",

@@ -1,12 +1,12 @@
 {
   "zeitraum": {
-    "von": "2026-11-27",
-    "bis": "2027-05-27"
+    "von": "2026-11-28",
+    "bis": "2027-05-28"
   },
-  "datum": "2026-11-27",
+  "datum": "2026-11-28",
   "zeitzone": "Europe/Vienna",
-  "anzahl": 590,
-  "importiert_am": "2026-11-27",
+  "anzahl": 598,
+  "importiert_am": "2026-11-28",
   "abdeckung": "166 registrierte URLs einschließlich URL-Varianten aus Bestandsdatei und ergänzender Quellenliste. 12 ohne aussagekräftigen Direktabruf. Öffentliche Übersichten, ausgewählte Gemeindelisten, explizit datierte Serien und Einzeltermine geprüft. Dynamische Kalender, Spielpläne und Social Media nur teilweise erfasst.",
   "quellen": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "url": "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender",
-      "anzahl": 8,
+      "anzahl": 7,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -31,8 +31,8 @@
     },
     {
       "url": "https://www.saalbach.com/de/events",
-      "anzahl": 173,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Eiskletter-Termine und Einzeltermin geprüft."
+      "anzahl": 189,
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Explizite Beginner-Skitour-Termine und Einzeltermin geprüft."
     },
     {
       "url": "https://www.saalfelden-leogang.com/de/news-events/events",
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://www.zillertalarena.com/wald-koenigsleiten/der-ort/veranstaltungen/",
-      "anzahl": 2,
+      "anzahl": 1,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "url": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-      "anzahl": 1,
+      "anzahl": 0,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen. Ergänzende Suche nach datierten Gemeindelisten und Detailseiten."
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "url": "https://jeunesse.at/standorte/zell-am-see",
-      "anzahl": 5,
+      "anzahl": 4,
       "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
@@ -397,7 +397,7 @@
     {
       "url": "https://www.edsbg.at/pfarre/st-georgen-pinzgau",
       "anzahl": 0,
-      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
+      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
     },
     {
       "url": "https://www.pfarre-saalfelden.at/",
@@ -812,7 +812,7 @@
     {
       "url": "https://www.fpcc.at/de/events-termine?utm_source=chatgpt.com",
       "anzahl": 0,
-      "status": "Öffentliche Übersicht im Textabruf geprüft. Vollständigkeit offen."
+      "status": "Kein aussagekräftiger Direktabruf. Künftigen Bestand erhalten."
     },
     {
       "url": "https://www.congress-saalfelden.at/de/veranstaltungen-besuchen/veranstaltungskalender?utm_source=chatgpt.com",
@@ -841,115 +841,6 @@
     }
   ],
   "veranstaltungen": [
-    {
-      "titel": "Adventmarkt am Rathausplatz Saalfelden",
-      "datum": "2026-11-27",
-      "beginn": "2026-11-27T12:00:00+01:00",
-      "ende": "2026-11-27T20:00:00+01:00",
-      "ort": "Rathausplatz, Saalfelden",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Zeller Sternenadvent am Stadtplatz",
-      "datum": "2026-11-27",
-      "beginn": "2026-11-27T15:00:00+01:00",
-      "ende": "2026-11-27T21:00:00+01:00",
-      "ort": "Stadtplatz, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/sternenadvent/adventmaerkte"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Nationalparkadvent Mittersill",
-      "datum": "2026-11-27",
-      "beginn": "2026-11-27T16:00:00+01:00",
-      "ende": "2026-11-27T21:00:00+01:00",
-      "ort": "Stadtplatz, Mittersill",
-      "quelle": "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen",
-      "quellen": [
-        "https://www.uttendorf.com/de/winter/adventzauber_in_den_bergen"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Sternenadvent Markt am See",
-      "datum": "2026-11-27",
-      "beginn": "2026-11-27T16:00:00+01:00",
-      "ende": "2026-11-27T20:00:00+01:00",
-      "ort": "Stadtpark, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/event/sternenadvent-markt-am-see~11242"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Märkte & Brauchtum"
-    },
-    {
-      "titel": "Adventmarkt Maishofen 2026",
-      "beginn": "2026-11-27T17:00:00+01:00",
-      "datum": "2026-11-27",
-      "ende": "2026-11-27T23:00:00+01:00",
-      "ort": "Dorfplatz Maishofen, Maishofen",
-      "beschreibung": "",
-      "quelle": "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen",
-      "quellen": [
-        "https://www.maishofen.at/Unser_Maishofen/Veranstaltungen"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Krampusrummel",
-      "beginn": "2026-11-27T17:00:00+01:00",
-      "datum": "2026-11-27",
-      "ende": null,
-      "ort": "Wald im Pinzgau, Königsleiten/Wald",
-      "beschreibung": "",
-      "quelle": "https://www.zillertalarena.com/wald-koenigsleiten/der-ort/veranstaltungen/",
-      "quellen": [
-        "https://www.zillertalarena.com/wald-koenigsleiten/der-ort/veranstaltungen/"
-      ],
-      "uhrzeit_bekannt": true
-    },
-    {
-      "titel": "Musikalischer Sternenadvent-Rundgang",
-      "ort": "Stadtplatz, Zell am See",
-      "quelle": "https://www.zellamsee-kaprun.com/de/event/musikalischer-sternenadvent-rundgang~7390",
-      "quellen": [
-        "https://www.zellamsee-kaprun.com/de/events/veranstaltungskalender"
-      ],
-      "datum": "2026-11-27",
-      "beginn": "2026-11-27T17:00:00+01:00",
-      "ende": "2026-11-27T18:00:00+01:00",
-      "beschreibung": "",
-      "uhrzeit_bekannt": true
-    },
-    {
-      "datum": "2026-11-27",
-      "beginn": "2026-11-27T19:30:00+01:00",
-      "ende": null,
-      "titel": "Duo Klangtreff – Tango & Tarantella",
-      "ort": "Pfarrsaal, Zell am See",
-      "quelle": "https://jeunesse.at/standorte/zell-am-see",
-      "quellen": [
-        "https://jeunesse.at/standorte/zell-am-see"
-      ],
-      "beschreibung": "",
-      "uhrzeit_bekannt": true,
-      "kategorie": "Musik & Kultur"
-    },
     {
       "titel": "Adventauftakt",
       "beginn": null,
@@ -2471,6 +2362,21 @@
       "uhrzeit_bekannt": true
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2026-12-15",
+      "beginn": "2026-12-15T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Eiskletterkurs – Schnuppertag",
       "datum": "2026-12-16",
       "beginn": "2026-12-16T08:30:00+01:00",
@@ -3119,6 +3025,21 @@
       "kategorie": "Sport & Berg"
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2026-12-22",
+      "beginn": "2026-12-22T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Sternenadvent Markt am See",
       "datum": "2026-12-22",
       "beginn": "2026-12-22T16:00:00+01:00",
@@ -3476,6 +3397,21 @@
       "beschreibung": "",
       "uhrzeit_bekannt": false,
       "kategorie": "Märkte & Brauchtum"
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2026-12-29",
+      "beginn": "2026-12-29T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
@@ -3873,6 +3809,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2027-01-05",
+      "beginn": "2027-01-05T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
       "datum": "2027-01-05",
       "beginn": "2027-01-05T10:00:00+01:00",
@@ -4099,6 +4050,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2027-01-12",
+      "beginn": "2027-01-12T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
@@ -4544,6 +4510,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2027-01-19",
+      "beginn": "2027-01-19T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
@@ -5072,6 +5053,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2027-01-26",
+      "beginn": "2027-01-26T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
       "datum": "2027-01-26",
       "beginn": "2027-01-26T10:00:00+01:00",
@@ -5421,6 +5417,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2027-02-02",
+      "beginn": "2027-02-02T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
@@ -5809,6 +5820,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2027-02-09",
+      "beginn": "2027-02-09T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
       "datum": "2027-02-09",
       "beginn": "2027-02-09T10:00:00+01:00",
@@ -6117,6 +6143,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2027-02-16",
+      "beginn": "2027-02-16T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
       "datum": "2027-02-16",
       "beginn": "2027-02-16T10:00:00+01:00",
@@ -6414,6 +6455,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2027-02-23",
+      "beginn": "2027-02-23T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
@@ -6750,6 +6806,21 @@
       ],
       "beschreibung": "Veranstaltungszeitraum 27.02.–03.03.2027.",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2027-03-02",
+      "beginn": "2027-03-02T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
@@ -7089,6 +7160,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2027-03-09",
+      "beginn": "2027-03-09T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
       "datum": "2027-03-09",
       "beginn": "2027-03-09T10:00:00+01:00",
@@ -7406,6 +7492,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2027-03-16",
+      "beginn": "2027-03-16T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
@@ -7831,6 +7932,21 @@
       "uhrzeit_bekannt": false
     },
     {
+      "titel": "Beginner Skitour",
+      "datum": "2027-03-23",
+      "beginn": "2027-03-23T09:00:00+01:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
+    },
+    {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
       "datum": "2027-03-23",
       "beginn": "2027-03-23T10:00:00+01:00",
@@ -8133,6 +8249,21 @@
       ],
       "beschreibung": "",
       "uhrzeit_bekannt": false
+    },
+    {
+      "titel": "Beginner Skitour",
+      "datum": "2027-03-30",
+      "beginn": "2027-03-30T09:00:00+02:00",
+      "ende": null,
+      "ort": "Westgipfelbahn Talstation, Hinterglemm",
+      "quelle": "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+      "quellen": [
+        "https://www.saalbach.com/de/events/beginner-skitour_e_386676",
+        "https://www.saalbach.com/de/events"
+      ],
+      "beschreibung": "",
+      "uhrzeit_bekannt": true,
+      "kategorie": "Sport"
     },
     {
       "titel": "Geführte Schneeschuhwanderung: Talschluss",
